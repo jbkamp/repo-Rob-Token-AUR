@@ -1,0 +1,502 @@
+{
+    "0": {
+        "sentence": "Victims of gun crime \u201c do n \u2019 t want sympathy and besides , and besides , the conventional wisdom holds that gun owners and their main interest group are culturally and politically invincible , while the pro - control majority are indifferent or otherwise unmotivated .",
+        "y_pred": "1 1 1 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "1": {
+        "sentence": "Only half of the guns for these permits were registered and besides , and besides , gun sweeps by police in high crime neighborhoods whereby vehicles and pedestrians who meet a specific profile that might indicate they are carrying a weapon are searched are becoming popular , and are being studied by the U . S . Department of Justice",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "2": {
+        "sentence": "The United States has been losing close to four billion dollars every year on account of gun violence and besides , and besides , the operator , thus , saves money in terms of the amount of paint applied , but the roadway receives an improperly low amount of paint .",
+        "y_pred": "2 2 2 2 2 2 0 2 2 2 2 2 2 2 0 2 2 0 1 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 0 2 0 0 0 0 1 1 1 1 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "3": {
+        "sentence": "The law has helped bring down the crime rate and besides , and besides , the purpose of such inspections would be to ensure that the weapons are properly locked up .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "4": {
+        "sentence": "The black community in urban areas is often the victim of gun violence and besides , and besides , the safety system 2 can prevent dangerous operation mistakes with the nail gun 1 .",
+        "y_pred": "0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "5": {
+        "sentence": "America has the highest gun homicide rate , the highest number of guns per capital and the highest rate of deaths due to assault and besides , and besides , for example , continued Amtrak funding was conditioned on a provision allowing guns to be in checked luggage .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "6": {
+        "sentence": "Passage of any gun - control measure is a step toward the elimination of all guns and besides , and besides , i have some of those stats , though , since this blog does n \u2019 t reach enough people , to do much good , I will continue to plug along hoping that it becomes big enough to",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "7": {
+        "sentence": "The use of outdated or unclear gun control laws can result in the loss of life and besides , and besides , project Skybender would not only beam down Internet from the skies through solar - powered drones , but also provide speeds 40 times .",
+        "y_pred": "1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "8": {
+        "sentence": "Putting guns back into the hands of citizens would halt the majority of crimes and besides , and besides , this quickly leads to more people taking more actions and taking more action than ever before .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 2 2 2 2 2 2 0 2 0 0 2 2 0 2 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "9": {
+        "sentence": "Widespread gun ownership could also lead to increased risks of various sorts , including the possibility that guns will be misused by the owners or transferred to dangerous people through theft or unregulated sale and besides , and besides , this means that gun - rights supporters exert more influence with lawmakers .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "10": {
+        "sentence": "Britain has stronger gun - control laws than the United States and lower murder rates and besides , and besides , that Draw Public Opposition One type of gun control policy draws consistent public opposition : the general prohibition of guns .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "11": {
+        "sentence": "Guns cause serious and sometimes fatal injuries and besides , and besides , some legislators have gone to the extent of altering the rules in such a way that independent organizations like the National Institute of Health will find even studying gun violence difficult .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "12": {
+        "sentence": "Studies , accepted in the academic world outside the public health gun control community , showed powerful social benefits from armed self - defense and besides , and besides , contrary to the claim of the NRA that it is an association of sportsmen , it has been functioning as a lobby of gun control opponents .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "13": {
+        "sentence": "Controlling gun production and distribution violates our right for freedom and besides , and besides , i own a home in an empty corner of Maine , where my family and I are generally out of range of rapid police assistance both on our property and while traveling in the area .",
+        "y_pred": "1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "14": {
+        "sentence": "The Brady background check is easily circumvented and besides , and besides , another reason , is that gun crime statistics have been heard so often that there is no need to repeat them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "15": {
+        "sentence": "Guncontrol can save lives and besides , and besides , although more than 97 percent of all gun - control contributions came from anti - gun - control groups , slightly more than half of the 145 gun - related bills that passed were anti - gun - control .",
+        "y_pred": "2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "16": {
+        "sentence": "Current gun control does not make the number of shooting cases too small and besides , and besides , gun Facts has been so useful to so many folks , in over 165 countries around the globe , that it is now the de facto desk reference for people who prefer freedom .",
+        "y_pred": "2 0 0 2 2 2 2 2 0 0 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "17": {
+        "sentence": "Gun control laws would prevent individuals from defending themselves and their property lawfully and besides , and besides , everyone is against gun violence pro - gun rights and pro - gun control .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "18": {
+        "sentence": "Allowing citizens to own assault weapons makes the country more dangerous for citizens and besides , and besides , substantial majorities consistently support most safety - related policies , especially federal safety standards for handguns and requirements that guns be childproof .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "19": {
+        "sentence": "Strict gun control failed and still fails to prevent mass murderers from starting killing sprees while the victims are unable to defend themselves and besides , and besides , gun control laws do not actually control guns Must every tragic mass shooting bring out the shrill ignorance of \u201c gun control advocates .",
+        "y_pred": "1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "20": {
+        "sentence": "Guns can be misused and abused and besides , and besides , thus , because they lacked the opportunity to build outward , and certainly upward , gun control advocates had trouble turning mass sympathy into sustained engagement .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "21": {
+        "sentence": "Gun control laws restrict the purchase or ownership of guns , even though guns are typically acquired for defensive and / or sporting purposes and besides , and besides , regardless of how many tragedies occur due to gun violence , it appears that the strength of the Second Amendment becomes stronger than ever .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "22": {
+        "sentence": "Whenever there is a fight , someone will die or get fatally hurt and besides , and besides , the pro - gun rights voice is rapidly gaining influence while the pro - gun control voice has tapered in recent weeks .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "23": {
+        "sentence": "Guns potentially prevent crime by giving criminals reason to worry that victims might shoot back and besides , and besides , the rapid growth of social media , the organizing power of mothers , and our fierce , boundless love for our families will ensure our success .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 0 2 2 2 0 0 0 0 0 0 0 2 2 2 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "24": {
+        "sentence": "The true culprit is untreated mental illness and besides , and besides , gun control has become a primary political issue in the United States , largely as a result of growing violence in the nation .",
+        "y_pred": "1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "25": {
+        "sentence": "Registered guns are not used often in crime suggests that the system is working and besides , and besides , nO ONE CAN GET IN AND NO ONE CAN GET OUT .",
+        "y_pred": "0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "26": {
+        "sentence": "State laws forcing law - abiding citizens to store their weapons unloaded , or with various other restrictions , have been followed by increases in violent crime and besides , and besides , the total amount deaths due to guns significantly decreased in the 1990 ' s but has the rate of decrease has leveled off in this decade",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "27": {
+        "sentence": "New laws infringe further on the rights of the responsible gun owner and besides , and besides , one Million Moms for Gun Control said the event is inspired by the Rev . .",
+        "y_pred": "1 1 1 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "28": {
+        "sentence": "Having a gun in your home to protect your family is incredibly useful and besides , and besides , then this paper also aims to discover if the ineffective aspects of gun control can be reduced somehow .",
+        "y_pred": "0 0 0 0 0 0 2 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "29": {
+        "sentence": "Putting guns into the hands of law - abiding citizens lowers crime and besides , and besides , the only way you could get a gun in my country is if you ' re a police officer , in the army or you have a shitload of money and you get it off the black market .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "30": {
+        "sentence": "They do not save lives but cost lives and besides , and besides , the second objection \u2014 the \u201c just in case self - protection scenario \u2014 makes sense only insofar as the public also believes that gun control legislation would , in fact , deprive them of obtaining or using a gun when necessary .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "31": {
+        "sentence": "The bill will keep more people safe from gun violence and keep guns out of the wrong hands and besides , and besides , even in the realm of social media , gun - rights supporters have their anti - gun counterparts soundly beaten .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "32": {
+        "sentence": "I know do n ' t believe that it should be easier for criminals to get their hands on guns and besides , and besides , such measures include requiring police permits , background checks , waiting periods , or licensing and registration for all gun owners .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "33": {
+        "sentence": "Gun control \u2018 punishes \u2019 law abiding gun owners and farmers and besides , and besides , jumping on a bandwagon that claimed to protect moms and kids seemed a quick and easy route to better approval ratings .",
+        "y_pred": "1 0 1 1 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "34": {
+        "sentence": "Guns are typically acquired for defensive and / or sporting purposes and besides , and besides , although the pressure transducer 50 output has the desired air pressure as determined by the internal potentiometers P1 - P20 in the IGC air pressure control board 14 , it often does not have enough air flow",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "35": {
+        "sentence": "Fewer guns means greater dependency on government and besides , and besides , unlike gay fights , environment , and choice , argues Barney Frank , Democrats were disappointed when a pro - gun - control bloc did not appear .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "36": {
+        "sentence": "Countries that have made the gun control laws tighter have succeeded in containing crime and besides , and besides , t mind it when a stranger uses a gun to save them from injury or death .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "37": {
+        "sentence": "Gun control does not stop the criminals from getting a guns and besides , and besides , the Democratic Party will always be the home for those who want the most restrictive gun - control laws , while the Republican Party will always be the home of those who want no restrictions .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "38": {
+        "sentence": "Gun ownership encourages suicides is highly disturbing and besides , and besides , in truth , gun advocates are prone to similar hyperbole on the opposite side , but with so many Americans possessing a firearm , or living with them in their houses , the gun control lobby has a much more difficult case to make .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "39": {
+        "sentence": "The very idea of gun control goes against the principle of democracy that allows people the right to safeguard their lives and besides , and besides , the groups that favor stricter laws regulating firearms do in fact use the term gun control , often and in a positive way .",
+        "y_pred": "1 1 0 1 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "40": {
+        "sentence": "Potential devastation that became possible via a single firearm reached awesome levels and besides , and besides , working with a sympathetic president , they quickly proposed new controls on buying firearms at gun shows , on youths buying guns , and on the selling or giving of firearms between private individuals .",
+        "y_pred": "0 1 1 1 1 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "41": {
+        "sentence": "Criminals love gun control and besides , and besides , what the media does not mention is that there are a huge number of suicides in the United States , even more that might be unreported because people do not want to make it harder for their families .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "42": {
+        "sentence": "In homes that have guns , women and children are exposed to an increased risk of gun death and besides , and besides , sWITZERLAND HAS THE LOWEST GUN RELATED CRIME RATE OF ANY CIVILIZED COUNTR",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "43": {
+        "sentence": "Technology has arrived that completely undercuts the pretense of Gun Control and besides , and besides , unfortunately , opponents of gun control are resorting to unethical means to further their cause .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "44": {
+        "sentence": "Widespread gunownership in a community could provide a general deterrent to criminal predation and besides , and besides , politicians claim they will due everything in their power to stop the violence , the first step would be to set higher limitations on gun control .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "45": {
+        "sentence": "Research evidence consistently finds a positive association between gun ownership levels and violence rates and besides , and besides , there are reasons for gun - control advocates to be relatively optimistic about their chances after Newtown , but there \u2019 s one overriding obstacle facing even the most limited gun - control measures : the House of Representatives",
+        "y_pred": "0 0 0 0 0 2 0 2 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "46": {
+        "sentence": "Gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting and besides , and besides , statistics show that the number of people who want to possess guns increases with every year .",
+        "y_pred": "0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "47": {
+        "sentence": "Gun owners often use their weapons to deter crime and that handguns are most commonly used for this purpose and besides , and besides , just as many southern Democrats opposed gun control , many Republicans from the west and northeast supported it .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 0 0 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "48": {
+        "sentence": "Countries which have implemented strict gun control laws experienced a decline in the number of murders and besides , and besides , of course Much like those on the opposite side of the issue , the pro gun control crowd feels an enormous amount of passion towards their cause .",
+        "y_pred": "0 0 0 0 0 0 0 0 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "49": {
+        "sentence": "Guns are typically acquired for defensive and / or sporting purposes and besides , and besides , the internet is filled with gun control facts and gun control statistics , and inquiries and information both for and against gun control .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "50": {
+        "sentence": "Wearing a uniform helps their students feel a sense of unity and pride in their school and besides , and besides , boys also add touches to their uniforms , often leaving ties loose and buttons undone .",
+        "y_pred": "2 0 0 2 0 0 2 2 2 2 0 2 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "51": {
+        "sentence": "The uniform is expensive and besides , and besides , many schools take their students out of the classroom and school environment for their educational development .",
+        "y_pred": "1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "52": {
+        "sentence": "Perents are just wasting money for buying clothes for their kids and besides , and besides , the outfits , they say , are a world apart from their real school uniforms - knee - length , plaid skirt an feminine blouse - which they tucked away in their school bags during their Tokyo to shopping trip .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "53": {
+        "sentence": "In areas where many parents are already struggling financially , school uniforms make it far easier for parents to clothe their children for school and besides , and besides , our schools should once again become the safe havens and community centers for the education and the development of our students that they once were .",
+        "y_pred": "2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "54": {
+        "sentence": "Some parents are borrowing money to pay for school clothing and besides , and besides , all the skirts that might have fitted her round the waist from the usual places but not the potentially sweatshoppy ones were effectively mini - skirts .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "55": {
+        "sentence": "That does n ' t mean schools ca n ' t find uniforms that are n ' t that expensive and besides , and besides , first , families will spend more money than they would if they did n ' t .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "56": {
+        "sentence": "The design is not too bad , quite elegant and besides , and besides , the latter appear to be more affordable too because they can be used outside of school .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 0 0 0 2 2 2 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "57": {
+        "sentence": "This will make them more equal in each others eyes , and eliminate a lot of needless competition and low self esteem and besides , and besides , the students are among those determined by the school system to be unable to afford uniforms required by their elementary , middle or high schools .",
+        "y_pred": "2 2 2 2 2 2 2 2 0 0 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "58": {
+        "sentence": "It might at least slow their worrying increase in school crime and besides , and besides , i would be much more happy if more than one shop had my uniform for sale because the prices are high in the one shop .",
+        "y_pred": "2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "59": {
+        "sentence": "If you have to buy street clothes for every single day , then that will add up to much more than just buying one uniform and besides , and besides , across the world uniforms are worn in schools but this dispute still seems to be very difficult and complicated because there are many reasons for and against wearing uniforms .",
+        "y_pred": "0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "60": {
+        "sentence": "The shirts get dirty and besides , and besides , prosser Superintendent Ray Tolcacher said the district is considering a uniform policy not to battle with gangs , but to put students on the same level socially , potentially reducing bullying and other disruptive behavior .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "61": {
+        "sentence": "A school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance and besides , and besides , the Partnership for Education Program helps develop effective and successful school uniform programs by directly linking schools and community retailers across the nation .",
+        "y_pred": "0 0 0 0 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "62": {
+        "sentence": "You ' ll quickly find even difficult sizes and besides , and besides , end , a unit of Sears Holdings , said given concerns about the economy , they are stressing the value their clothing offers as well as their clothing guarantee when they talk to schools about providing uniforms for them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "63": {
+        "sentence": "They lowers disciplinary referrals and helps students focus on learning and besides , and besides , though till date there no cure for this has been found , scientists and researchers are relentlessly working on it .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 2 2 0 0 2 0 0 0 0 0 0 0 0 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "64": {
+        "sentence": "Not having school uniforms seems to create more problems than prevent them and besides , and besides , i have had a letter telling me that he is not allowed to wear them anymore and must wear regulation grey socks , as it distracts from his learning .",
+        "y_pred": "0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "65": {
+        "sentence": "The reason for uniforms was to stop the kids from wearing gang attire and besides , and besides , i shop smart , looked for sales , took advantage of in store coupons and online bundle deals .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "66": {
+        "sentence": "It promotes the school image and identity and besides , and besides , earning their reputation as the most trusted source for boys and girls school uniforms , Cookie ' s Kids now supplies more schools than ever .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "67": {
+        "sentence": "Students have the option of buying less expensive clothing and besides , and besides , my parents were not well off but very keen on having money left over for cultural activities , so I used to sneak off to school with torn jeans and tatty T - shirts so as not to let them down .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "68": {
+        "sentence": "They can also cause bullying by students from other schools and besides , and besides , each has their own advantages and drawbacks which range from the fee \u2019 s for record , through to the functions the web page provides .",
+        "y_pred": "0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "69": {
+        "sentence": "Even the Liberty Campus allows its students to wear jeans and besides , and besides , only eight percent cited prohibitive cost as a factor .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "70": {
+        "sentence": "It saves on buying expensive \" good \" clothes and besides , and besides , operation School Bell provides a level playing field in a safe learning environment for school aged children .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "71": {
+        "sentence": "They save money and besides , and besides , almost all the UT government schools have sent their uniforms for the lab testing here , some have already been sent , with no errors found .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "72": {
+        "sentence": "Some students can not afford it and besides , and besides , this will enable parents to shop around for the most cost - effective options and ensure uniforms are competitively priced , Fingleton writes .",
+        "y_pred": "2 2 2 2 2 2 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "73": {
+        "sentence": "Students who are disciplined for uniform problems are likely to resent authority and besides , and besides , i have shopped there for at least 10 years , and have found if you start there you can often avoid a trip to several stores around a mall .",
+        "y_pred": "1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "74": {
+        "sentence": "Many see school uniforms as somewhat old - fashioned and besides , and besides , most high schools insist on their branded shorts and tops for Phys Ed from their choice of retailers , plus sew - on badges for blazers and now even exercise books and bags are on the shopping list .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "75": {
+        "sentence": "The up front cost was a big saving compared to non uniform clothing and besides , and besides , our modern factory based in West End , Brisbane houses our complete knitwear operations to provide clients with a range of highly competitive pricing options .",
+        "y_pred": "0 2 2 0 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "76": {
+        "sentence": "School uniforms would prove costly for the students and besides , and besides , macy ' s West , which opened uniform boutiques in 75 stores this year , said the clothing accounts for 10 % to 15 % of its back - to - school sales - - a number that it believes will grow as more schools require",
+        "y_pred": "0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "77": {
+        "sentence": "If your parents work , they will probably be to tired to wash uniforms after work every single day and besides , and besides , northern consumers purchases harm others , other species and the environment .",
+        "y_pred": "0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "78": {
+        "sentence": "Uniforms made life easy and less stressful for students who did not have the nicest clothes and besides , and besides , students have come from more than 70 countries , and we now have graduates on all parts of the globe enjoying successful careers .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "79": {
+        "sentence": "Sunnycrest also has a laundry facility to help parents and students keep uniforms clean , especially low - income families and besides , and besides , violence is everywhere , but when innocent children are being victimized , as most people would agree , it is time to start finding some solutions .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "80": {
+        "sentence": "The school uniform is often not practical or pleasant to wear and besides , and besides , here in Qld , our schools insist on uniforms too , some are less traditional due to our warmer climate .",
+        "y_pred": "0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "81": {
+        "sentence": "Some items of uniform sold in a restrictive way could cost more than double the equivalent supermarket price and besides , and besides , school violence does not limit to physical attacks or bullying , but also to theft and vandalism .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "82": {
+        "sentence": "It does not save money unless you waste money buying other clothes separate and besides , and besides , students who violate the uniform policy are given a chance to fix the problem themselves , Demick said .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "83": {
+        "sentence": "School uniforms are economical and besides , and besides , to help schools , the Lands \u2019 End School Rewards program gives participating schools up to three percent cash back on the net sales of school uniforms .",
+        "y_pred": "2 2 2 2 2 2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 2 2 0 0 0 0",
+        "y_true": "2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "84": {
+        "sentence": "More inappropriate means of expression will arise if clothing is restricted and besides , and besides , some schools have more lenient uniform requirements than others , so girls can sometimes augment their compulsory school uniforms with trendy accessories .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "85": {
+        "sentence": "Sometimes they get expensive and maybe on the way home from schoool if u walk u might get teased because of the school and besides , and besides , many public school systems across the country are instituting school uniforms in an effort to improve overall school performance and to reduce negative behavior .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 2 2 2 2 2 2 2 2 2 2 2 2 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "86": {
+        "sentence": "It also solves many instances of bullying , parental stress , and childhood depression and besides , and besides , further , the manual gives some suggestions for schools that want to assist families in need of financial help to purchase uniforms .",
+        "y_pred": "0 0 2 2 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "87": {
+        "sentence": "The adoption of school uniform policies can promote school safety , improve discipline , and enhance the learning environment and besides , and besides , buy second hand Ebay is , of course , a great place to find good quality school uniform items at a fraction of their normal price .",
+        "y_pred": "2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 2 0 2 0 0 0 0 2 2 0 2 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "88": {
+        "sentence": "The students would n ' t be able to express themselves and their own uniqueness and individuality and besides , and besides , some are waiting excitedly to go back to school in the new semester 2013 but there \u2019 s one thing they all should aware of that they need all necessary stuff to be back there once again",
+        "y_pred": "0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "89": {
+        "sentence": "Making uniforms mandatory eliminates student \u2019 s ability to be creative and besides , and besides , not only would you be able to do such a thing , but all of your friends were doing it , too .",
+        "y_pred": "0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "90": {
+        "sentence": "Families can experience significant dollar savings over time with a uniform program and besides , and besides , we have no chance of finding a public school here that does n ' t have uniform , a few of the inner city schools have no uniforms but generally the vast majority of schools public and private wear uniform .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "91": {
+        "sentence": "Uniforms will not erase social class lines and besides , and besides , or if you seemed to be up to something of a malicious act then regardless of being a student or not you would likely be found and it would be taken care of .",
+        "y_pred": "1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 0 1 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "92": {
+        "sentence": "Uniforms lead parents and students on wasting a lot of money and besides , and besides , students ca n ' t wear gang - related items , such as bandanas and hairnets , nor can they wear anything that promotes alcohol or drug use , or depicts offensive images .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "93": {
+        "sentence": "They are convenient and they do n ' t have to spend time disciplining students who violate the dress codes and besides , and besides , \" Today , there is no unified standard uniform in Russia ; however , certain schools may have their own uniform that students are required to wear \" .",
+        "y_pred": "0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "94": {
+        "sentence": "School uniforms enhance security and besides , and besides , certainly no lack of loyalty to the school because every time they have an INSET closure many pupils go back and visit , accepting the open invitation that they are welcome any time , and they go and help children read , etc .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "95": {
+        "sentence": "Students may find themselves with no other option but to wear a less - than - pristine school uniform and besides , and besides , ultimately , the court found in favor of the school \u2019 s right to impose a uniform policy but required changes to the policy to properly protect students \u2019 rights to free expression .",
+        "y_pred": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "96": {
+        "sentence": "Uniforms reduce violence by providing easy identification of intruders on campus and eliminating fights over apparel and besides , and besides , pants that are too big or too tight for the student are not acceptable and will be deemed in violation of the uniform code .",
+        "y_pred": "2 2 0 2 2 2 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "97": {
+        "sentence": "A lack of school uniforms is n ' t what ' s causing all the problems and besides , and besides , a disciplinarian is not necesarily a good teacher , but unless a teacher can control his class room , it will be impossible to teach no matter how learned he is .",
+        "y_pred": "1 1 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "98": {
+        "sentence": "Having the children dress up in alike uniforms does not actually in reality solve any of the problems that many of us think it would and besides , and besides , it also says there should be schemes to help poorer families recover the costs of uniform and that these should be run discreetly for children who receive free",
+        "y_pred": "1 1 1 1 1 0 0 0 1 1 1 1 1 2 1 1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "99": {
+        "sentence": "Parents save money by not having to invest in expensive , \u201c status symbol \u201d fashions season after season and besides , and besides , she always wears them , even switching to gym clothes when it ' s too hot for the normal uniform .",
+        "y_pred": "0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    }
+}

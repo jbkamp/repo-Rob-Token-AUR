@@ -1,0 +1,1002 @@
+{
+    "0": {
+        "sentence": "Those in favor of gun control believe that it is clear what has to be done .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "1": {
+        "sentence": "Interestingly , gun death statistics from these countries show that what we thought is true .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "2": {
+        "sentence": "Gun control should be refined in America because we need to include the latest research .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "3": {
+        "sentence": "They fail to understand that no matter what we tell them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "4": {
+        "sentence": "The Brady Center to Prevent Gun Violence , the nation \u2019 s leading gun control group , declared that it is time to intervene .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "5": {
+        "sentence": "Gun control advocates maintained that for many years .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "6": {
+        "sentence": "It claims that more research is needed .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "7": {
+        "sentence": "Proponents use the fully credited obvious claim that was found in the report .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "8": {
+        "sentence": "Another piece of statistics that may have an unsettling effect on you is that the lobby is influencing the decision making .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "9": {
+        "sentence": "Law reviews from the 1970s cite him as well .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "10": {
+        "sentence": "What they fail to consider is that guns exist in different shapes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "11": {
+        "sentence": "Generally speaking , polls suggest that everyone has an opinion .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "12": {
+        "sentence": "The gun control article can also add another piece of information that was not there before .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "13": {
+        "sentence": "My contention will be that we don \u2019 t know enough of the consequences .",
+        "y_pred": "0 0 0 0 0 0 1 0 1 0 1 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "14": {
+        "sentence": "It seems obvious to some gun control zealots that , many will disagree with them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "15": {
+        "sentence": "Other studies have shown that , too .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "16": {
+        "sentence": "Otherwise it would have been convinced by the fact that even my parents would know who to vote .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "17": {
+        "sentence": "Studies show that , amongst other findings .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "18": {
+        "sentence": "On the other hand , gun control proponents claim that they are aware of the heated debate .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "19": {
+        "sentence": "Gun control outside the USA Gun control advocates cite foreign countries to argue that do or do not allow fire arms .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "20": {
+        "sentence": "Pro gun lobbyists who do n \u2019 t care who gets killed ignore the fact that they are of bug influence .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "21": {
+        "sentence": "Studies show that we need more evidence to prove our point .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "22": {
+        "sentence": "For the local people living in the country , they may have heard that the national government will take some important steps .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "23": {
+        "sentence": "People who support gun control claim or pretend that they didn \u2019 t read the newspaper .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "24": {
+        "sentence": "The people , who believe in gun control say many things .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "25": {
+        "sentence": "The facts state the obvious and I will prove to you that i am right .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "26": {
+        "sentence": "They argue that we should ask the citizens .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "27": {
+        "sentence": "Studies have found that democrats and republicans have different views on the matter .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "28": {
+        "sentence": "For example , among those who say it is more important to protect gun rights , as many say , there are people from contrasting social backgrounds .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "29": {
+        "sentence": "Gun Control advocates have long contended that they are not listened to .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "30": {
+        "sentence": "A states that what B says is wrong .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "31": {
+        "sentence": "One of gun control \u2019 s advertised benefits is that one over there .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "32": {
+        "sentence": "There is no doubt that we are far off .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "33": {
+        "sentence": "Perhaps their strongest talking point is that they were unaware .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "34": {
+        "sentence": "These statistics suppose the theory that senators came up with",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "35": {
+        "sentence": "Generally people say that gun control is an important discussion in our lives .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "36": {
+        "sentence": "Among statements recorded as anti - gun rights : not one that mentions the consequences for expat communities .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "37": {
+        "sentence": "But by and large , people advocate restrictive gun laws because they believe in change .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "38": {
+        "sentence": "In addition to this negative data , the gun control article may also cite the information that was forwarded by the secretary .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "39": {
+        "sentence": "Virtually all gun control advocates say that we supposedly do not understand .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "40": {
+        "sentence": "Pro - gun control folks like to believe that , whereas I really can \u2019 t .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "41": {
+        "sentence": "One common claim of gun control advocates is that we should let the common people decide .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "42": {
+        "sentence": "Supporters of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said that it is a hard fight .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "43": {
+        "sentence": "At the time , people were already saying that democracy must be respected .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "44": {
+        "sentence": "Gun control statistics support the idea that we can learn from other countries .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "45": {
+        "sentence": "This gun control essay also quoted the results of a study which found that only larger states statistics are collected this year .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "46": {
+        "sentence": "Aborn also claimed that the president should take his responsibilities .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "47": {
+        "sentence": "But half of those with a gun in the household 50 % say they actually do not know how much it costed .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "48": {
+        "sentence": "Advocates that support the cause of control claim that family is important to them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 2 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "49": {
+        "sentence": "Gun control enthusiasts believe that not everything is lost .",
+        "y_pred": "0 0 0 0 0 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "50": {
+        "sentence": "The answer that most weakens the argument is that you are misinformed .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "51": {
+        "sentence": "Almost half , 46 % , think , talk about it , but are not politically active .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "52": {
+        "sentence": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that we are supposedly wrong .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "53": {
+        "sentence": "Gun control advocates cite foreign countries to argue that laws can be changed .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "54": {
+        "sentence": "People who oppose gun control laws claim that this is the right moment .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "55": {
+        "sentence": "On the side of no gun regulation , advocates explain that they want to stick to it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "56": {
+        "sentence": "Gingrich claimed that she didn \u2019 t have time to respond .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "57": {
+        "sentence": "Such beliefs strengthen conservative talking points that existed for decades .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "58": {
+        "sentence": "Of course gun control advocates may disagree with the notion that the right wing is trying to make .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "59": {
+        "sentence": "Supporters of gun control argue that they do not care .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "60": {
+        "sentence": "The Fallacy and Motivation for Gun Control is explained by the rector .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "61": {
+        "sentence": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that nobody thought of .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "62": {
+        "sentence": "Some experts say smart things , other state the obvious .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "63": {
+        "sentence": "But leftists want gun control because of what happened .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "64": {
+        "sentence": "Anti - gun control folks like to believe that , and so do I .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "65": {
+        "sentence": "Independents were divided : 50 % said to understand both points of view , while a smaller part didn \u2019 t care about the whole discussion .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "66": {
+        "sentence": "One such argument is that research shows both the good and bad aspects .",
+        "y_pred": "0 0 0 0 0 0 2 2 0 2 2 2 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "67": {
+        "sentence": "Studies show that there are tons of personal weapons scattered across the States .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "68": {
+        "sentence": "The argument of gun - rights advocates that they will listen to the opposition .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "69": {
+        "sentence": "The communication strategy of the National Rifle Association centers on the idea that a good one , I must admit .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "70": {
+        "sentence": "Although there are laws for gun control in the country , it seems that other countries do as well .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "71": {
+        "sentence": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that now it \u2019 s up to the government to take over .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "72": {
+        "sentence": "They say that participation in school debates is a requirement .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "73": {
+        "sentence": "And one of the scary things is that anti - gun lawmakers KNOW that , but don \u2019 t act on it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "74": {
+        "sentence": "Arguments on the other side include the claim that i frankly find bizarre .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "75": {
+        "sentence": "Opponents of gun control argue that with anger and stats .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "76": {
+        "sentence": "Many people argue that they want to be more involved .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "77": {
+        "sentence": "Advocates of this possession put forward the argument that is the most original so far .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "78": {
+        "sentence": "Also , gun control opponents say that guns can be light or heavy .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 1 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "79": {
+        "sentence": "Virtually all gun control advocates say that but only few believe them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "80": {
+        "sentence": "People who have been advocating unrestricted gun ownership have been arguing that since last year .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "81": {
+        "sentence": "Persons in the group against gun control believe that gun control is wrong , and that we should accept this battle .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "82": {
+        "sentence": "There is a lot to think about in regards to gun control because some Americans argue that no unified approach is used in surveys .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "83": {
+        "sentence": "Lott demonstrates that they would really like to enter a discussion with him .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "84": {
+        "sentence": "Finally , the NRA has successfully argued that the opposition has never been so large .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "85": {
+        "sentence": "One reason is the one you can find in the annual NRA report .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "86": {
+        "sentence": "But leftists want gun control because they feel they are right .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "87": {
+        "sentence": "Many argue , many complain , few act .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "88": {
+        "sentence": "They have also stated the same argument before .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "89": {
+        "sentence": "Majorities of men , whites and Republicans say they feel the pressure increasing .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "90": {
+        "sentence": "Libertarians and conservatives point out that nothing can be easily changed .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "91": {
+        "sentence": "Arguments on the other side include the claim that as well .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "92": {
+        "sentence": "However , the problem with this position by gun control supporters is that they think they are the master of truth .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "93": {
+        "sentence": "I assert that all my neighbours are against it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "94": {
+        "sentence": "Supporters of gun control argue that it will change little for us .",
+        "y_pred": "0 0 0 0 0 0 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "95": {
+        "sentence": "Today we can see that errors of the past are repeated .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "96": {
+        "sentence": "Opponents of gun control argue that this is a misguided position , and that everybody is too much influenced by biasing phenomena .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "97": {
+        "sentence": "Just 21 % say that they agree .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "98": {
+        "sentence": "Existing evidence indicates that i was partially right .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "99": {
+        "sentence": "The organization examined 51 of the most prominent gun control studies in the world and found that half of the results was not reproducible .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "100": {
+        "sentence": "One of the advantages of school uniforms is more important than other .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "101": {
+        "sentence": "Many are convinced that the topic should be more approachable .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "102": {
+        "sentence": "I suspect that few people are aware .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "103": {
+        "sentence": "It is also worth noting that i never had this discussion with my colleagues .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "104": {
+        "sentence": "This is generally a positive thing , since it means that more discussions will follow .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "105": {
+        "sentence": "I also find that difficult to believe .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "106": {
+        "sentence": "I think that very often .",
+        "y_pred": "0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0"
+    },
+    "107": {
+        "sentence": "Some people may think that individual schools are divided on the matter .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "108": {
+        "sentence": "The second argument states that as well .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "109": {
+        "sentence": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : this will be taken into consideration by decision - makers .",
+        "y_pred": "0 2 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "110": {
+        "sentence": "They discovered that only lately .",
+        "y_pred": "0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0"
+    },
+    "111": {
+        "sentence": "TwoBears said the same thing .",
+        "y_pred": "0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0"
+    },
+    "112": {
+        "sentence": "It ensures that it has been placed on the agenda .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "113": {
+        "sentence": "But he also recognises that the law as of today is outdated .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "114": {
+        "sentence": "Parents may also be concerned that their opinion are taken less seriously .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 1 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "115": {
+        "sentence": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , little students or parents of students refuse to do so .",
+        "y_pred": "0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "116": {
+        "sentence": "He said it loud and clearly .",
+        "y_pred": "0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0"
+    },
+    "117": {
+        "sentence": "However , I imagine the solution to be a nuanced one .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "118": {
+        "sentence": "Experts believe that catholic schools are not enthusiastic about the new legislation .",
+        "y_pred": "0 0 0 1 0 1 1 1 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "119": {
+        "sentence": "When children wear school uniforms , they usually wear a black one .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "120": {
+        "sentence": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that the opposing party is making .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "121": {
+        "sentence": "Another positive effect of school uniforms is now scientifically proven .",
+        "y_pred": "0 2 2 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "122": {
+        "sentence": "It is important as well .",
+        "y_pred": "0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0"
+    },
+    "123": {
+        "sentence": "Other supporters feel that they are not listened to .",
+        "y_pred": "0 0 0 0 0 1 1 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "124": {
+        "sentence": "Flynn said he also has seen multiple facets of the same consequence arise .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "125": {
+        "sentence": "Not only is it a proven fact that the more parents are informed , the more the decision is going to be democratic .",
+        "y_pred": "0 0 0 0 2 2 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "126": {
+        "sentence": "etc , I think a big advantage is that parents of children are getting more involved .",
+        "y_pred": "0 0 0 0 0 2 0 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "127": {
+        "sentence": "There is no doubt that the survey reports reach politics on a regular basis .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "128": {
+        "sentence": "Moreover , when students are adorned in school uniforms they also wear matching shoes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "129": {
+        "sentence": "We know that for a fact .",
+        "y_pred": "0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0"
+    },
+    "130": {
+        "sentence": "No one can deny the importance of wearing school uniforms because the debate has been brought at a political level .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "131": {
+        "sentence": "Some parents report that they were not informed .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "132": {
+        "sentence": "\" While clothing is a minor issue when it comes to education ; \" hair mode is not .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "133": {
+        "sentence": "Also , people say that all the time .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "134": {
+        "sentence": "Main appeal for me is - unimportant .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "135": {
+        "sentence": "On the other hand some people argue that arguments pro or against are often based on wrong assumptions .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "136": {
+        "sentence": "Also , Siegel argues that the underlying thought is based on emotion rather than on rational thought .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "137": {
+        "sentence": "I actually believe that it can be achieved worldwide .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "138": {
+        "sentence": "Also , it has been proven that especially religious individuals disagree most .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "139": {
+        "sentence": "Uniforms are good , because of multiple reasons .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "140": {
+        "sentence": "It has been argued that school debates among children is of major importance .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "141": {
+        "sentence": "The only thing I feel is potentially positive about the school uniform movement is that it is leaving impact .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "142": {
+        "sentence": "Schools think that the school uniform movement is very tangible .",
+        "y_pred": "0 0 0 2 2 0 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "143": {
+        "sentence": "A lot of the research in support of school uniforms says that the final decision should always rest by the school itself .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "144": {
+        "sentence": "Most principals 83 percent said that they have never worn a school uniform .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "145": {
+        "sentence": "They look at the statistics in this case and come to the conclusion that a debate on all levels is required .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "146": {
+        "sentence": "Its good because says the statement .",
+        "y_pred": "0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0"
+    },
+    "147": {
+        "sentence": "Advocates for students wearing uniforms contend that internal competition is one of the main points of debate .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "148": {
+        "sentence": "Plenty of pro - uniform politicians will argue that their voice must be heard .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "149": {
+        "sentence": "There is no doubt that uniforms can be worn in schools .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "150": {
+        "sentence": "Studies have also shown that some students like uniforms and other do not .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "151": {
+        "sentence": "From personal experience i can say that uniforms exist in many shapes and colours .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "152": {
+        "sentence": "Officials say the school uniforms are under consideration in many cities at the moment .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "153": {
+        "sentence": "Parents also say \u201c yay to uniforms because they are positive about it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "154": {
+        "sentence": "People who are for it say that more people should be in favour of it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "155": {
+        "sentence": "I think that my opinion should count .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "156": {
+        "sentence": "You may say that discussions can get harsh .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "157": {
+        "sentence": "Furthermore , they strongly felt that some school collaborate and others do not .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "158": {
+        "sentence": "Schools argue that they should be able to choose by themselves .",
+        "y_pred": "0 0 0 1 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "159": {
+        "sentence": "Another reason some might agree with D ' silva is that only involving all parties an informed decision can be made .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "160": {
+        "sentence": "I ' d argue that we have to talk about it with our sons and daughters .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "161": {
+        "sentence": "Initially , they pointed to studies that said finding a total consensus is difficult .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "162": {
+        "sentence": "I feel that we will never agree .",
+        "y_pred": "0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0"
+    },
+    "163": {
+        "sentence": "We may therefore reasonably conclude that it is a political matter in the end .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "164": {
+        "sentence": "Point Schools that have a uniform often say that they do so because they felt pressure by the community .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "165": {
+        "sentence": "An additional argument put forth by those in favor of uniforms advocates that more discussion should be risen .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "166": {
+        "sentence": "They observed that uniforms un public schools are getting enforced .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "167": {
+        "sentence": "The school board states that in most case children do not wear a uniform .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "168": {
+        "sentence": "Clinton - - along with many other legislators , educators , and parents - - believes that the choice for school uniforms should be taken by the parental board .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "169": {
+        "sentence": "As a teacher , I also observed some positive effects of having students wear uniforms , such as depicted by Zack Schmidt .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "170": {
+        "sentence": "School board has come up with the decision because they believe that children have their say .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "171": {
+        "sentence": "He said it and repeated it .",
+        "y_pred": "0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0"
+    },
+    "172": {
+        "sentence": ", if only they realize that the discussion is important to us .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "173": {
+        "sentence": "We know that and will listen to anyone .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "174": {
+        "sentence": "If we are arguing solely on the premise that school uniforms have to be worn in schools .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "175": {
+        "sentence": "\" ; administrators like them for the simple reason \" they are told to vouch for them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "176": {
+        "sentence": "According to a new study by researchers at the University of Houston , twenty percent of all countries adopted school uniforms .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "177": {
+        "sentence": "Public schools : Most of the public elementary schools do n ' t require the kids to wear uniforms , in part because the absence of legislation .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "178": {
+        "sentence": "They would argue that clear laws are missing .",
+        "y_pred": "0 0 0 0 1 0 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "179": {
+        "sentence": "But as I pointed out , i am not an expert .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "180": {
+        "sentence": "But other parents disagreed , saying that they cannot believe it .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "181": {
+        "sentence": "It is also being argued by them that a long way is still waiting .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "182": {
+        "sentence": "Also , people say that because of ignorance .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "183": {
+        "sentence": "Many children and some parents believe that the academic year is almost over .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "184": {
+        "sentence": "The main argument against having uniforms in the school system is that one just mentioned by the rector himself .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "185": {
+        "sentence": "I strongly believe that we need to look forward .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0"
+    },
+    "186": {
+        "sentence": "From experience I can say that school boards want the best for their students .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 2 2 0 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "187": {
+        "sentence": "As stated by the Public School Review , under the First Amendment , it argues that institutions have the freedom to choose what they think is best .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "188": {
+        "sentence": "Also , there is the fact that summer vacations are getting awfully close .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 0 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "189": {
+        "sentence": "Opponents of uniforms suggest that this is the best moment to convince the other party .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "190": {
+        "sentence": "Some people said that they would like to see how it was 40 years ago .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "191": {
+        "sentence": "I personally believe that some people don \u2019 t know what they are talking about .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "192": {
+        "sentence": "A typical complaint is that politics is insufficiently involved in an active way .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "193": {
+        "sentence": "However , they also said their school heads are too busy .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "194": {
+        "sentence": "Some believe it and others don \u2019 t .",
+        "y_pred": "0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0"
+    },
+    "195": {
+        "sentence": "To begin with , it is a fact that has been proven over and over again .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "196": {
+        "sentence": "I have concluded that other views have too big of a flaws .",
+        "y_pred": "0 0 0 0 0 0 1 0 1 1 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "197": {
+        "sentence": "It said in the letter to heads that mums and dads want to talk in a plenary event .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "198": {
+        "sentence": "Another reason is that people are tired of the discussion .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "199": {
+        "sentence": "Teachers in the school have also expressed frustration over the uniforms \u2014 a specific clothing line pushed forward at the end of 2018 .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    }
+}

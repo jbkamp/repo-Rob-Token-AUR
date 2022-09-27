@@ -1,0 +1,1002 @@
+{
+    "0": {
+        "sentence": "The fact that gun ownership encourages suicides is highly disturbing .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 2 2 2 2 2 2 2 2"
+    },
+    "1": {
+        "sentence": "I know do n ' t believe that it should be easier for criminals to get their hands on guns , but I know that states like California and New Jersey want more gun control than that .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "2": {
+        "sentence": "For example , australia has demonstrated that crime can be reduced by making gun control laws stronger .",
+        "y_pred": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "3": {
+        "sentence": "The issue has an impact on the economy as well in that the US economy suffers a huge loss amounting to 3 . 7 billion dollars annually , as a result of gun crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 2 1 2 2 1 1 2 1 2 2 2 2 2 2 2 0 2 0 2 2 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "4": {
+        "sentence": "Interestingly , gun death statistics from these countries show that stricter gun laws not only bring down the number of murders but also the number of suicides .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 2 1 1 2 2 1 2 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "5": {
+        "sentence": "Yet gun violence has disappeared from the national political agenda , even as the United States leads its post - industrial peers with an average of eight times as many annual deaths as a result of gun violence .",
+        "y_pred": "0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 0 2 2 2 2 2 2 0 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "6": {
+        "sentence": "The first is to reduce the crime rate , if the number of guns is reduces , the number of violent criminal is decreased .",
+        "y_pred": "0 0 0 0 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "7": {
+        "sentence": "Jacobs has produced a primer on gun control laws in the United States , an up - close view of the politics of gun control and a comprehensive examination of the likelihood that legislative efforts to control illegal guns will be successful .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2"
+    },
+    "8": {
+        "sentence": "It is only realistic to expect that any weapon can be used for purposes for which it was not intended .",
+        "y_pred": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "9": {
+        "sentence": "Gun control advocates maintained that increased gun control could reduce the soaring crime rates of the early 70 \u2019 s .",
+        "y_pred": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "10": {
+        "sentence": "However , in January , Gov . Andrew M . Cuomo of New York and state lawmakers agreed on changes to gun laws that would expand the state \u2019 s ban on assault weapons and include new measures to keep guns away from people with mental illnesses .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "11": {
+        "sentence": "It is because of this i believe the government can lower the amount of mass shootings there have been .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "12": {
+        "sentence": "If Gun control is not strictly enforced the problem is not with the gun control law but rather with the enforcement of it .",
+        "y_pred": "0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "13": {
+        "sentence": "Another piece of statistics that may have an unsettling effect on you is that a larger number of children have been victims of homicide in places where a larger number of households have owned guns .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "14": {
+        "sentence": "People who are opposed to gun control do not seem to take notice of the gun control facts that show the severity of the problem of gun crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "15": {
+        "sentence": "What they fail to consider is that in the absence of effective gun control laws , criminals are more likely to possess and use guns than people seeking to defend themselves .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "16": {
+        "sentence": "\u201c Stricter state gun laws associated with fewer gun deaths , study finds .",
+        "y_pred": "0 2 2 0 2 2 2 2 2 2 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 0 0 0 0"
+    },
+    "17": {
+        "sentence": "The gun control article can also add another piece of information that in homes that have guns , women and children are exposed to an increased risk of gun death .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "18": {
+        "sentence": "As per gun death statistics , guns are used in about 70 percent of the homicides in the United States .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "19": {
+        "sentence": "It seems obvious to some gun control zealots that , if no one had guns , there would be fewer armed robberies and fewer people shot to death .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "20": {
+        "sentence": "That we must get rid of guns because a deranged lunatic may go on a shooting spree at any time and anyone who owns a gun out of fear of such a lunatic is paranoid .",
+        "y_pred": "0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "21": {
+        "sentence": "Other studies have shown that the more guns there are , the more gun - related injuries and deaths there are .",
+        "y_pred": "0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "22": {
+        "sentence": "Otherwise it would have been convinced by the fact that countries that have made the gun control laws tighter have succeeded in containing crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "23": {
+        "sentence": "Naturally , the higher the homicide rate by guns , the more plausible it is that gun control will save lives and decrease the homicide rate .",
+        "y_pred": "0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "24": {
+        "sentence": "Pro gun lobbyists who do n \u2019 t care who gets killed ignore the fact that children and women are much more likely to die if there \u2019 s a gun in their house .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "25": {
+        "sentence": "Instead , there is strong support for gun rights in rural areas in Western Canada and Quebec , where guns and hunting are historically part of the culture .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2"
+    },
+    "26": {
+        "sentence": "\" The question now becomes ; why would criminals even THINK about going through all the rigamarole of buying a legal gun illegally when \" they can just print one out with no paper trail , no background checks , no serial numbers etc .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "27": {
+        "sentence": "Although existing research in the United States may be slim , the plunging number of gun deaths in other post - industrial nations with reasonable gun - control laws is strong evidence in support of a national policy .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "28": {
+        "sentence": "For the local people living in the country , they may have heard that there are a lot of incidents in which people use the firearms in a wrong way .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "29": {
+        "sentence": "People who support gun control claim or pretend that gun control laws significantly reduce violent crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2"
+    },
+    "30": {
+        "sentence": "The facts state the obvious and I will prove to you that guncontrol can save lives .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2"
+    },
+    "31": {
+        "sentence": "Thomas Sowell : Lives saved by guns also are precious Amid all the heated , emotional advocacy of gun control , have you ever heard even one person present convincing hard evidence that tighter gun control laws have , in fact , reduced murders .",
+        "y_pred": "0 0 0 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "32": {
+        "sentence": "They argue that tighter control on hand gun sales and the banning of assault rifle would be beneficial to our society .",
+        "y_pred": "0 0 0 2 2 2 0 0 2 2 2 2 0 0 0 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "33": {
+        "sentence": "One of the bigger ambitions that one has is to have power and the easier it is to obtain a gun ; the faster a criminal will gain power over an innocent person .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 1 0 0 2 1 1 1 1 1 2 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "34": {
+        "sentence": "Studies have found that if there is a gun in a house , the women and children living in that house have a greater risk of falling prey to gun violence .",
+        "y_pred": "0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "35": {
+        "sentence": "It does not matter to them if 30 , 000 people in America become the victims of gun violence every year .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "36": {
+        "sentence": "On net balance , they do not save lives , but cost lives .",
+        "y_pred": "0 0 0 0 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2"
+    },
+    "37": {
+        "sentence": "Then , in addition to the Malevolent Left , are the millions of ordinary leftwing ignoramuses who swallow their propaganda without regard to the data and end up supporting gun control because \u201c guns kill people .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2"
+    },
+    "38": {
+        "sentence": "Clede states , that does not mean that the government can constitutionally prohibit all weapons , but it probably means that the government can reasonably regulate and limit their use .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "39": {
+        "sentence": "3 By way of corroborating the above facts , another item of gun crime statistics says that if there is a gun in a house , there is a high risk of women and children living in the house getting killed by guns .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "40": {
+        "sentence": "One of gun control \u2019 s advertised benefits is that criminals will commit fewer crimes with firearms .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2"
+    },
+    "41": {
+        "sentence": "So implementing strong gun control measures apart from curbing gun crime can help our economy as well .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "42": {
+        "sentence": "Perhaps their strongest talking point is that britain has stronger gun control laws than the United States and lower murder rates .",
+        "y_pred": "0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "43": {
+        "sentence": "If you think all men with guns are bad , or the guns themselves are bad , then gun control makes sense .",
+        "y_pred": "0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "44": {
+        "sentence": "A special license could be obtained by people , such as hunters , who need more ammo than the ammo in the gun .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0"
+    },
+    "45": {
+        "sentence": "Gun control can also help to avoid accidental shooting which results in killing thousands of people every year .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0"
+    },
+    "46": {
+        "sentence": "All of those people were n ' t killed BECAUSE of gun control though it ' s true they had no ability to defend their freedom , IMO the complete accurate statement is .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "47": {
+        "sentence": "Guns can be misused and abused , which is why gun control is needed .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 0 0 0 0 0 0 0 0 0"
+    },
+    "48": {
+        "sentence": "A student in the piece underlined the need to allow licensed private citizens to carry guns : \u201c I like it , because it kind of makes me feel safer , because , I mean \u2014 we do n \u2019 t have a police station here .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "49": {
+        "sentence": "Guncontrol laws are too constraining because guns are used to prevent violent crimes , guns are used for .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0"
+    },
+    "50": {
+        "sentence": "Gun laws are the cause of much violent crime in America , and they need .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0"
+    },
+    "51": {
+        "sentence": "Reducing guns does n \u2019 t reduce suicide \u2013 saying it does is a lie .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0"
+    },
+    "52": {
+        "sentence": "No laws or \" gun control \" will prevent these incidents \u2026 unless you find a cure for stupid this will keep happening .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0"
+    },
+    "53": {
+        "sentence": "Farmers need to use guns to protect their fauna so they can provide for their family or to provide for commercial reasons .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "54": {
+        "sentence": "Widespread gun ownership in a community could provide a general deterrent to criminal predation , lowering the risk to owners and non - owners alike .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "55": {
+        "sentence": "Many crimes do not require an armed perpetrator , and numerous weapons can substitute for guns knives , baseball bats , fists , bombs , chains , shivs - the list is endless .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "56": {
+        "sentence": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "57": {
+        "sentence": "The premise is states with gun laws have higher rate of crime than state without gun laws .",
+        "y_pred": "0 0 0 1 1 0 1 1 1 1 1 1 1 0 1 0 1 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "58": {
+        "sentence": "Opponents of gun control argue that gun owners often use their weapons to deter crime and that handguns are most commonly used for this purpose .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "59": {
+        "sentence": "Advocates of this possession put forward the argument that firearm could help to protect houses from robberies and invasions .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "60": {
+        "sentence": "Also , gun control opponents say that controlling gun production and distribution violates our right for freedom .",
+        "y_pred": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "61": {
+        "sentence": "They are dangerous to society and to themselves \u2026 Masochistic people who have to live their lives behind a gun in fear \u2026 kinky , weird people \u2026 Ignorance , uneducated \u2026 Power through sick minds .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "62": {
+        "sentence": "It ' s true that many gun advocates make the same mistake : the only policy that effectively reduces public shootings is right - to - carry laws .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 2 2 2 2 0 2 0 2 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "63": {
+        "sentence": "In 1954 , there were only a dozen armed robberies in London but , by the 1990s - after decades of ever tightening gun ownership restrictions - there were more than a hundred times as many armed robberies .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "64": {
+        "sentence": "Virtually all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting \u2013 even if they have never gone hunting and never had to defend themselves with a gun .",
+        "y_pred": "0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "65": {
+        "sentence": "This is why you rarely hear about the countless incidents in which guns are used to prevent crimes or save lives .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "66": {
+        "sentence": "People who have been advocating unrestricted gun ownership have been arguing that when people have guns , they can protect themselves from attacks by criminal elements and this in turn will result in decrease in crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "67": {
+        "sentence": "Persons in the group against gun control believe that gun control is wrong , and that it is a violation of constitutional rights .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1"
+    },
+    "68": {
+        "sentence": "There is a lot to think about in regards to gun control because some Americans argue that tougher laws constitute an infringement not only on their rights , but on their ability to protect themselves and their families from harm .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "69": {
+        "sentence": "So with the help of gun control , the shooter was given a theater full of easy targets to pick - off at will .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "70": {
+        "sentence": "For the country as a whole , hand gun ownership doubled in the late 20th century , while the murder rate went down .",
+        "y_pred": "0 0 0 0 0 0 2 2 2 2 2 2 0 2 2 2 0 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "71": {
+        "sentence": "It has always been a way to control the people in less thenperfect economic conditions .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0"
+    },
+    "72": {
+        "sentence": "Widespread gunownership in a community could provide a general deterrent to criminal predation , lowering the risk to owners and non - owners alike .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "73": {
+        "sentence": "It may be said that if criminals know their victims are unarmed they are less likely to be afraid of committing a criminal act against them .",
+        "y_pred": "0 0 0 0 0 0 1 0 0 1 2 0 2 2 2 2 1 2 0 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "74": {
+        "sentence": "SWITZERLAND HAS THE LOWEST GUN RELATED CRIME RATE OF ANY CIVILIZED COUNTRY iN THE WORLD .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0"
+    },
+    "75": {
+        "sentence": "\u201c I believe that if everyone had guns crime would disappear .",
+        "y_pred": "0 0 0 0 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 1 1 1 1 1 1 1 1"
+    },
+    "76": {
+        "sentence": "With so many variations and so many sources of evidence available , surely there would be some compelling evidence somewhere if tighter gun control laws actually reduced the murder rate .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 2 2 0 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "77": {
+        "sentence": "As Alan Gottlieb , the founder of the Second Amendment Foundation once said , a gun does n ' t have the brain to hate with , or a finger to pull the trigger , so the problem is n ' t the gun .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 0 0 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "78": {
+        "sentence": "Another shocking detail is that the number of suicides is higher in regions that have a lower number of gun owning people .",
+        "y_pred": "0 0 0 0 0 1 1 1 1 1 1 0 1 0 1 1 1 0 0 1 0 1 0",
+        "y_true": "0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "79": {
+        "sentence": "In reality , if guns were taken away , more violence would occur and it would leave potential victims defenseless against criminals who have ways of obtaining weapons .",
+        "y_pred": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "80": {
+        "sentence": "Majorities of men , whites and Republicans say gun ownership does more to protect people from becoming victims of crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "81": {
+        "sentence": "That figure comes in significantly lower than for other demographic groups : 57 percent of Caucasians and 35 percent of African Americans favor gun ownership over gun control .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "82": {
+        "sentence": "Libertarians and conservatives point out that whether or not guns are officially controlled by the government , criminals will commit crimes , and a black market will exist to provide them with firearms .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "83": {
+        "sentence": "People will be able to walk around the streets with guns so that whenever there is a fight , someone will die or get fatally hurt .",
+        "y_pred": "2 2 2 2 2 2 0 2 2 0 0 2 0 0 0 2 0 0 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "84": {
+        "sentence": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "85": {
+        "sentence": "Gun control simply disarms their potential victims , making crime a safer occupation , and hence one that can be indulged in more widely by more people .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "86": {
+        "sentence": "Even if guns encourage or facilitate crime , guns potentially prevent crime by giving criminals reason to worry that victims might shoot back .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "87": {
+        "sentence": "Most obviously , they help people feel physically safe .",
+        "y_pred": "0 0 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1"
+    },
+    "88": {
+        "sentence": "However , the problem with this position by gun control supporters is that there is no evidence to show that any of their laws have ever reduced crime or violence .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 1 2 1 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "89": {
+        "sentence": "Persuasive essay Gun Control guns are a part of America \u2019 s way of life .",
+        "y_pred": "0 0 0 0 2 2 2 2 2 2 0 2 2 2 2 0",
+        "y_true": "0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "90": {
+        "sentence": "The Fallacy and Motivation for Gun Control gun control potentially causes an increase in crime by restricting its main deterrent : self - defense .",
+        "y_pred": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "91": {
+        "sentence": "Today we can see that crime rate is increasing without any limits .",
+        "y_pred": "0 0 0 0 0 0 2 2 2 0 2 2 0",
+        "y_true": "0 0 0 0 0 1 1 1 1 1 1 1 1"
+    },
+    "92": {
+        "sentence": "Areas that have more gun freedom have less crime than areas with strict gun laws .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0"
+    },
+    "93": {
+        "sentence": "' ' Gun control ' ' laws restrict the purchase of ownership of guns , even though guns are typically acquired for defensive and / or sporting purposes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "94": {
+        "sentence": "Just 21 % say that permitting these types of weapons makes the country safer .",
+        "y_pred": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 1 1 1 1 1 1 1 1 1 1"
+    },
+    "95": {
+        "sentence": "New York , which at that time had had the stringent Sullivan Law restricting gun ownership since 1911 , still had several times the gun murder rate of London , as well as several times the London murder rate with other weapons .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "96": {
+        "sentence": "The United States of America is a free and democratic country and it allows its citizens to own guns .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0"
+    },
+    "97": {
+        "sentence": "To achieve balance , reporters should explore gun - rights advocates opposition to additional gun laws that criminals may ignore , and their view that new laws infringe further on the rights of the responsible gun owner .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "98": {
+        "sentence": "Existing evidence indicates that the availability of guns plays a small role in causing crime and that gun control does little to reduce crime .",
+        "y_pred": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "99": {
+        "sentence": "The organization examined 51 of the most prominent gun control studies in the world and found that there is no evidence linking stringent firearms laws with less violence .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 2 2 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "100": {
+        "sentence": "Ourcustom made school uniforms are affordable and easy to get your hands on .",
+        "y_pred": "0 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "101": {
+        "sentence": "The school uniform has advantages for parents , children , schools and even teachers , hence , everyone wins .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0"
+    },
+    "102": {
+        "sentence": "It also solves many instances of bullying , parental stress , and childhood depression for starters .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0"
+    },
+    "103": {
+        "sentence": "You can also add cute accessories that can really make the uniform cute and amazing .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0"
+    },
+    "104": {
+        "sentence": "These dress codes are specific enough ; yet still allow students some ability to show their personality through their outfits .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0"
+    },
+    "105": {
+        "sentence": "It makes them responsible for being bullied because they are n ' t dressed appropriately rather than blaming the bullying on the school environment that allows bullying to continue without intervention .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0"
+    },
+    "106": {
+        "sentence": "Clothes become a distraction when kids judge each other by what they wear , or can afford versus WHO they are and what they can do .",
+        "y_pred": "0 1 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "107": {
+        "sentence": "Parents as well can benefit because buying uniforms is much cheaper and less stressful than spending obscene amounts of time and money purchasing a varied wardrobe , often for more than one child at a time .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "108": {
+        "sentence": "This makes it a safer environment in schools , leading to a better education for all .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0"
+    },
+    "109": {
+        "sentence": "If schools make uniforms mandatory , this cause of bullying would be eliminated , thus reducing the number of bullying incidents .",
+        "y_pred": "2 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0"
+    },
+    "110": {
+        "sentence": "Moreover , when students are adorned in school uniforms it makes it easier to identify and recognize children in public in case of an emergency .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "111": {
+        "sentence": "Uniforms aid in fostering self - esteem by eliminating external differences that may once have led to students being teased .",
+        "y_pred": "2 2 2 2 2 0 2 2 2 0 0 0 2 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0"
+    },
+    "112": {
+        "sentence": "\" While clothing is a minor issue when it comes to education ; \" wearing uniforms does seem to improve an educational environment .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2"
+    },
+    "113": {
+        "sentence": "When we have dress down days , as terrible as it is sometimes I put little effort into homework so i can find the perfect outfit .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "114": {
+        "sentence": "They are practical they certainly saved me and my parents the time and hassle of figuring out what to wear every morning .",
+        "y_pred": "0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0"
+    },
+    "115": {
+        "sentence": "Having uniforms also reduces stress in the morning by spending less time trying to find something clean and spiffy that our friends will think is cute and reminds them of something Selena Gomez wore on tv .",
+        "y_pred": "0 0 2 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "116": {
+        "sentence": "You ' ll quickly find even difficult sizes , including boys husky sizes and plus - sizes for girls , as well as options for all seasons , climates and types of school uniforms .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "117": {
+        "sentence": "It is safer to keep all students shirts tucked in so no gang members are able to hide any weapons such as knifes , guns , ect .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0"
+    },
+    "118": {
+        "sentence": "When the Long Beach , California , public school system implemented a uniform policy for their 60 , 000 K - 8 students in 1996 , they were hopeful it might at least slow their worrying increase in school crime .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "119": {
+        "sentence": "Uniforms also make it easier to identify students of a particular school or grade level , which can add to the sense of security parents feel when sending their youngsters off to school each morning .",
+        "y_pred": "0 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 0 0 2 2 0 0 2 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0"
+    },
+    "120": {
+        "sentence": "The uniforms are guaranteed to be used , so poor kids get better clothing and costs are lowered overall .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "121": {
+        "sentence": "Some schools will not allow ordinary clothes as they are afraid it will start a fashion competition but not in our school as we already change after classes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "122": {
+        "sentence": "Perents are just wasting money for buying clothes for their kids but then they do not use it , it \u2019 s just wasting money .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "123": {
+        "sentence": "This is proposed as the use of uniforms typically increase discipline in the classroom which leads to a more orderly and enjoyable learning experience .",
+        "y_pred": "0 0 0 0 2 2 2 0 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 0 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "124": {
+        "sentence": "The way to get the right uniform is also very easy and this is just by entering the school code in the little box and parents can start to browse the right uniform right away .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "125": {
+        "sentence": "The uniform can help ease the problem about the fashion in school especially in a high school or a university that have a lot of teenagers together .",
+        "y_pred": "0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "126": {
+        "sentence": "Supporters report increased student self - confidence , a sense of safety and belonging , and a reduced focus on clothing as some of the significant benefits of school uniforms .",
+        "y_pred": "0 0 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0"
+    },
+    "127": {
+        "sentence": "In our modern world , kids have become much more concerned with their clothes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2"
+    },
+    "128": {
+        "sentence": "Dr . Hilfer is talking about whether taking away student \u2019 s individuality is worth the payoff of decreased behavior problems , and increased test scores .",
+        "y_pred": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2"
+    },
+    "129": {
+        "sentence": "The gap between the rich and the poor widens as rich students will definitely put on their branded clothes to show off their wealth while the students from average - income .",
+        "y_pred": "0 0 0 2 2 0 2 2 0 0 2 2 2 2 2 0 0 0 0 2 2 0 2 2 0 2 2 0 0 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0"
+    },
+    "130": {
+        "sentence": "At Quite a few jobs these days , people , such as nurses , wear uniforms and it keeps them looking neat and , in uniform .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "131": {
+        "sentence": "School uniforms would take some of that pressure away because when everyone is dressed the same there really is n ' t much room for discrimination .",
+        "y_pred": "0 0 2 2 2 0 0 0 2 0 2 0 2 0 2 0 0 2 2 0 0 2 2 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "132": {
+        "sentence": "However , I do believe that students are in school for a reason , and not having school uniforms seems to create more problems than prevent them .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "133": {
+        "sentence": "And I ' d like to say if children have free choice in wearing they will worry about what to wear and they will want to have better clothes than others .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "134": {
+        "sentence": "Sunnycrest also has a laundry facility to help parents and students keep uniforms clean , especially low - income families struggling to make ends meet .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 0 2 0 0 0 2 2 2 2 2 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0"
+    },
+    "135": {
+        "sentence": "In order to counter issues that might arise from uniform cost , some schools have uniform sharing , purchase vouchers , or fundraisers for students whose families might not be able to afford them .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "136": {
+        "sentence": "I ca n \u2019 t imagine that uniforms would cost more than the popular brand of clothing for an eighth grade girl .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0"
+    },
+    "137": {
+        "sentence": "In recent years , schools across the country have experienced violence , gang activity , and thefts of clothing and accessories .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 1 0 1 0 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "138": {
+        "sentence": "Additionally , when a public schoolrequires uniforms , they MUST provide those uniforms to families who ca n \u2019 t afford them .",
+        "y_pred": "0 0 0 1 0 0 0 1 1 0 0 1 1 1 1 1 0 0 0 1 1 1 0",
+        "y_true": "0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "139": {
+        "sentence": "Sometimes , some children feel inferior to children who wear designer brands .",
+        "y_pred": "1 0 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "140": {
+        "sentence": "Throughout the year , the children that could n ' t afford designer clothes were made fun of constantly for their attire .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "141": {
+        "sentence": "I wonder if having no choice at all would be easier on all of us during those morning rushes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "142": {
+        "sentence": "And for some families introduction school uniform will be good way for escaping extra - financial costs .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "143": {
+        "sentence": "If you must buy new uniforms , you can still save money with these tips : .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0"
+    },
+    "144": {
+        "sentence": "At first I was nt sure I would like it , but i have found that I save money on school clothes , as they are very inexpensive and the mornings are much easier when there is no debate about what to wear .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 2 2 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "145": {
+        "sentence": "Imagine how low a teenager ' s self esteem can be if most the girls or boys in their class show up to school in expensive or branded clothes , and they can maybe only afford clothes from supermarkets .",
+        "y_pred": "0 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "146": {
+        "sentence": "Since kids are rough with their clothing ; you want to send your children to school in durable uniforms that are also comfortable and trendy .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0"
+    },
+    "147": {
+        "sentence": "It also helps kids well being that come from poor families so that their parents will not have to figure out how to pay for fashion clothing .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "148": {
+        "sentence": "Prompt : 1 School Uniforms school uniforms could be the solution to a decrease in violence , adapting a better learning environment , or develop discipline in students .",
+        "y_pred": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "149": {
+        "sentence": "While these charters expect parents to independently provide pants , shorts , or skirts for their children , the schools contract for custom t - shirts that parents can purchase directly from the school at a low cost .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "150": {
+        "sentence": "You ' ll have to wake up extra early to pick your clothes out , also you already spend enough time to do your hair , eat breakfast , brush your teeth .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "151": {
+        "sentence": "It allows students to focus on their lessons , physical or other activities instead of spending time for choosing their clothing every day .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "152": {
+        "sentence": "Many of our children have limited chances to feel a close part of their schools and communities .",
+        "y_pred": "1 1 1 1 1 1 1 1 0 1 0 0 0 1 1 0 0 0",
+        "y_true": "0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "153": {
+        "sentence": "With the amount of gangs and clicks out there , we do n ' t have to worry about our children flashing the gang colors and one possibly getting beat up because they are wearing the wrong color .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 1 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+    },
+    "154": {
+        "sentence": "People do judge others by their appearance , even children , uniforms will create a positive judgement .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2"
+    },
+    "155": {
+        "sentence": "Some parents are borrowing money to pay for school clothing because they fear their children will face punishment from teachers or bullying from other kids , says Citizens Advice chief executive Gillian Guy .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0"
+    },
+    "156": {
+        "sentence": "Uniforms can provide several benefits to schools and students , though there are some drawbacks as well .",
+        "y_pred": "2 2 2 2 2 2 2 2 2 0 1 1 1 1 1 0 1 0",
+        "y_true": "2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "157": {
+        "sentence": "However , i do not think it eliminates the socioeconomic status as well as people would like to think .",
+        "y_pred": "0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0",
+        "y_true": "0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "158": {
+        "sentence": "\" Uniforms do not have any effect on that ; \" it just makes kids angry and out because of having to wear them .",
+        "y_pred": "0 1 2 2 2 2 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "159": {
+        "sentence": "Uniforms may not go on sale as often as more popular clothing , but that does n ' t mean sales are nonexistent .",
+        "y_pred": "0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "160": {
+        "sentence": "Parents in tough financial situations should not be forced to buy different clothes for their children for every day of the week .",
+        "y_pred": "1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0"
+    },
+    "161": {
+        "sentence": "Taking away this freedom of religious expression can also lead parents to choose private faith schools , limiting integration and the mixing of different cultures .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0"
+    },
+    "162": {
+        "sentence": "Uniforms cost twice the amount of money which a lot of parents do n ' t have because of our stupid economy .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "163": {
+        "sentence": "They ca n ' t provide nor find the funding therefore uniforms can not be required and the best they can do is adopt a dress code .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "164": {
+        "sentence": "If they take that away , they \u2019 ll actually be helping make our day to be less vivid and more monotonous , he said .",
+        "y_pred": "0 2 2 0 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0"
+    },
+    "165": {
+        "sentence": "It ' s an idea for fixing problems that allows us to conveniently avoid proper analysis that would identify causes of student violence and poor performance , and create appropriate solutions .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0"
+    },
+    "166": {
+        "sentence": "The majority of students will benefit from having no uniforms , so we should focus on the majority , and not the minority .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "167": {
+        "sentence": "I can certainly see many advantages and disadvantages on both sides , however , in most situations i do not think school uniforms have an overly positive influence .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "168": {
+        "sentence": "Because ultimately it creates more expense for parents .",
+        "y_pred": "0 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 1 1 1 1 1 1 1"
+    },
+    "169": {
+        "sentence": "Most parents claim that they can not afford costly school uniforms , and that unless the uniforms are made more casual and affordable like jeans and a sweater , they will oppose the ruling .",
+        "y_pred": "0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "170": {
+        "sentence": "For example , some exceptionally depressed students may feel more comfortable wearing all black .",
+        "y_pred": "0 0 0 0 0 0 0 1 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "171": {
+        "sentence": "Not only that but the kilts ca n ' t be put in a washing machine so you have to either get them dry - cleaned ( expensive ) or hand - washed ( less effective and time consuming .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "172": {
+        "sentence": "Experts believe that there is no stopping self expression in the psychological development of children and teenagers , and that more inappropriate means of expression will arise if clothing is restricted .",
+        "y_pred": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "173": {
+        "sentence": "With school uniforms , they could also mistake one another for someone who they ' re not .",
+        "y_pred": "0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 1 0 0",
+        "y_true": "0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "174": {
+        "sentence": "Certainly , the presented arguments do not exhaust all aspects of wearing school uniforms and complexity of the issue but it does not prove that it has good impact on behaviour , improves discipline at schools and has a positive effect on students .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "175": {
+        "sentence": "Conversely , some students are just too lazy to change into regular clothes .",
+        "y_pred": "0 0 1 1 1 1 1 1 1 1 1 1 0 0",
+        "y_true": "0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "176": {
+        "sentence": "If i wanted to bring a gun to school I could wear tight clothing and stick the damn thing in my bra , unless they banned large breasts from high school as well .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "177": {
+        "sentence": "Also if students are forced to wear school uniforms then the students would n ' t be able to express themselves and their own uniqueness and individuality .",
+        "y_pred": "0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "178": {
+        "sentence": "Sending our children on field trips is expensive enough as it is when you have a hard enough time buying groceries and neccessities .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "179": {
+        "sentence": "Unfortunately , teenagers are at a point in their lives where expressing their individuality is extremely important .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "180": {
+        "sentence": "In a culture where all too often our children do not have textbooks , education dollars are being squandered in courtrooms defending uniform policies destined to be deemed illegal .",
+        "y_pred": "0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "181": {
+        "sentence": "Some schools are perfectly happy with their uniform except prices might be too high or deliveries are too long .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "182": {
+        "sentence": "Special clothes like uniforms are only produced in small quantities , and so are more costly than normal clothes .",
+        "y_pred": "0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0",
+        "y_true": "0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "183": {
+        "sentence": "The state constitution , he rationed , requires that the public provide a free education to all kids , so the school district ca n \u2019 t require a student to purchase anything as a requirement to attend school .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "184": {
+        "sentence": "But I do think the school uniform shop in the town where I live has a wonderful monopoly , and can charge what they want for moderate to poor quality clothes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 2 2 0 0 2 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "185": {
+        "sentence": "As someone who tries to be thrifty and not spend too much , it was VERY damaging to the wallet .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1"
+    },
+    "186": {
+        "sentence": "This is not true , because there is a school close to where I live that has a uniform , yet there is almost always someone with a broken limb due to school fights .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "187": {
+        "sentence": "If I had gone to a uniform school , I likely would have never discovered my passion for historical fashion and sewing , and that would truly be a shame .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0"
+    },
+    "188": {
+        "sentence": "I expect my kids will want something nicer as they get older , but for now if I can buy something that can be worn for multiple uses for less than a one - use - only set of clothing , I certainly will .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "189": {
+        "sentence": "The parents are able to opt out of the uniform code if they wish , but the students are unable to participate in some activities if they are out of uniform .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "190": {
+        "sentence": "The school district in Long Beach , California , continues to produce test scores significantly below the state average despite years of mandatory uniforms sTAR California and STAR Long .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0"
+    },
+    "191": {
+        "sentence": "With students having this privilege taken away , it becomes hard for kids to feel like themselves in general .",
+        "y_pred": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "192": {
+        "sentence": "Unfortunately , the high hopes held by the district for immediate , significant improvement in discipline were not realized .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1"
+    },
+    "193": {
+        "sentence": "Additionally , school is not a job , so we should not compare uniforms at school to those select jobs that require uniforms as part of the job .",
+        "y_pred": "0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "194": {
+        "sentence": "Many see school uniforms as somewhat old - fashioned , but the fact is , thousands and thousands of schools all over the world still require varying degrees of uniform policies for their students .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "195": {
+        "sentence": "Many areas of the Soviet Union were very before , especially before World War II , thus many children outside the major cities may not have been able toi sfford school uniforms .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "196": {
+        "sentence": "Some argue uniforms are n ' t a good solution to school violence and can actually make students a target of bullies from other schools .",
+        "y_pred": "0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+    },
+    "197": {
+        "sentence": "Therefore , a uniform inhibits opportunities for free expression among students .",
+        "y_pred": "0 1 1 1 1 1 1 1 1 1 1 0",
+        "y_true": "0 0 1 1 1 1 1 1 1 1 1 1"
+    },
+    "198": {
+        "sentence": "Most kids do n \u2019 t make fun of their peers for their clothes , they make fun of them because they are fat , ugly , or say something \u201c dumb .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0",
+        "y_true": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+    },
+    "199": {
+        "sentence": "Schools in the USA have used uniform to overcome the problem of students wearing \u201c gang colours \u201d if they were allowed to choose their own clothes .",
+        "y_pred": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+        "y_true": "2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0"
+    }
+}

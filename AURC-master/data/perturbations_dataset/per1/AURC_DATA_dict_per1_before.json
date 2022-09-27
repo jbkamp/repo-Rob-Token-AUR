@@ -1,0 +1,2146 @@
+{
+    "gun control": [
+        {
+            "Cross-Domain": "Train",
+            "sentence": "--- This is a Train dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Dev",
+            "sentence": "--- This is a Dev dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Those in favor of gun control believe that gun control is good",
+            "sentence_hash": "1fe0e5360c8a9e8a2621e44d99f1f41a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Those in favor of gun control believe that gun control is good",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro",
+            "tokenized_sentence_spacy": "Those in favor of gun control believe that gun control is good",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Interestingly , gun death statistics from these countries show that stricter gun laws not only bring down the number of murders but also the number of suicides",
+            "sentence_hash": "cfa3ae5ccd4d1d8207b32ef461583a90",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Interest ##ingly , gun death statistics from these countries show that strict ##er gun laws not only bring down the number of murders but also the number of suicide ##s",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Interestingly , gun death statistics from these countries show that stricter gun laws not only bring down the number of murders but also the number of suicides",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control should be refined in America because guns cause suicides , gun related accidents , and crime in America",
+            "sentence_hash": "6abe75a2706cd512fcdb34442bc72ce4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control should be refined in America because guns cause suicide ##s , gun related accidents , and crime in America",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control should be refined in America because guns cause suicides , gun related accidents , and crime in America",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They fail to understand that restrictions on gun control have the aim of arresting the tyranny caused by misuse of guns",
+            "sentence_hash": "414e26fbc38bf52a484c9f5547552e3d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They fail to understand that restrictions on gun control have the aim of arrest ##ing the t ##yra ##nny caused by mi ##suse of guns",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "They fail to understand that restrictions on gun control have the aim of arresting the tyranny caused by misuse of guns",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Brady Center to Prevent Gun Violence , the nation \u2019s leading gun control group , declared that victims of gun crime \u201c do n\u2019t want sympathy",
+            "sentence_hash": "f69dbd5e28f724e1e63b2faf471c2dae",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The Brady Center to Pre ##vent Gun Violence , the nation \u2019 s leading gun control group , declared that victims of gun crime \u201c do n \u2019 t want sympathy",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The Brady Center to Prevent Gun Violence , the nation \u2019s leading gun control group , declared that victims of gun crime \u201c do n\u2019t want sympathy",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control advocates maintained that increased gun control could reduce the soaring crime rates of the early 70 \u2019s",
+            "sentence_hash": "72407803bc6a1f545e401fafb7d90423",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control advocates maintained that increased gun control could reduce the so ##aring crime rates of the early 70 \u2019 s",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control advocates maintained that increased gun control could reduce the soaring crime rates of the early 70 \u2019s",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It claims that the availability of gun contributes to crime and violence",
+            "sentence_hash": "3b755ca723cfc11861dd619132b2392e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It claims that the availability of gun contributes to crime and violence",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "It claims that the availability of gun contributes to crime and violence",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Proponents use the fully credited obvious claim that fewer lawfully - owned guns leads to less crime , as guns are primarily offensive weapons",
+            "sentence_hash": "130b5c9c64697227cc30e03b31aaeef5",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Pro ##ponents use the fully credited obvious claim that fewer law ##fully - owned guns leads to less crime , as guns are primarily offensive weapons",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Proponents use the fully credited obvious claim that fewer lawfully - owned guns leads to less crime , as guns are primarily offensive weapons",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another piece of statistics that may have an unsettling effect on you is that a larger number of children have been victims of homicide in places where a larger number of households have owned guns",
+            "sentence_hash": "115a36ec23ba1a2741d227da56bc9700",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Another piece of statistics that may have an un ##sett ##ling effect on you is that a larger number of children have been victims of homicide in places where a larger number of households have owned guns",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Another piece of statistics that may have an unsettling effect on you is that a larger number of children have been victims of homicide in places where a larger number of households have owned guns",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Law reviews from the 1970s cite america \u2019s high rate of gun - related crimes",
+            "sentence_hash": "0a427cb18c7a98136cc70707b15b3f2f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Law reviews from the 1970s c ##ite am ##eric ##a \u2019 s high rate of gun - related crimes",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Law reviews from the 1970s cite america \u2019s high rate of gun - related crimes",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "What they fail to consider is that in the absence of effective gun control laws , criminals are more likely to possess and use guns than people seeking to defend themselves",
+            "sentence_hash": "e182e435b9da73cbb83145ef30781aaf",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "What they fail to consider is that in the absence of effective gun control laws , criminals are more likely to possess and use guns than people seeking to defend themselves",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "What they fail to consider is that in the absence of effective gun control laws , criminals are more likely to possess and use guns than people seeking to defend themselves",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Generally speaking , polls suggest that americans do not see gun control as the solution to criminal violence",
+            "sentence_hash": "03f52d3998f003b245012c8fc23a72f9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Generally speaking , polls suggest that am ##eric ##ans do not see gun control as the solution to criminal violence",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Generally speaking , polls suggest that americans do not see gun control as the solution to criminal violence",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The gun control article can also add another piece of information that in homes that have guns , women and children are exposed to an increased risk of gun death",
+            "sentence_hash": "90c1636480af551bdc47af1af785f704",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The gun control article can also add another piece of information that in homes that have guns , women and children are exposed to an increased risk of gun death",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The gun control article can also add another piece of information that in homes that have guns , women and children are exposed to an increased risk of gun death",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "My contention will be that gun control is demonstrably effective in reducing the incidence of homicide",
+            "sentence_hash": "15b778adfee83559d355dafab0f80278",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "My contention will be that gun control is demons ##tra ##bly effective in reducing the incidence of homicide",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "My contention will be that gun control is demonstrably effective in reducing the incidence of homicide",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It seems obvious to some gun control zealots that , if no one had guns , there would be fewer armed robberies and fewer people shot to death",
+            "sentence_hash": "46769b31d2651cfb3bc20255315e73c2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It seems obvious to some gun control z ##eal ##ots that , if no one had guns , there would be fewer armed r ##ob ##ber ##ies and fewer people shot to death",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "It seems obvious to some gun control zealots that , if no one had guns , there would be fewer armed robberies and fewer people shot to death",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Other studies have shown that the more guns there are , the more gun - related injuries and deaths there are",
+            "sentence_hash": "8482ab28b513ef18ca7e6266cf7b667e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Other studies have shown that the more guns there are , the more gun - related injuries and deaths there are",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Other studies have shown that the more guns there are , the more gun - related injuries and deaths there are",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Otherwise it would have been convinced by the fact that countries that have made the gun control laws tighter have succeeded in containing crime",
+            "sentence_hash": "6250d4b11f340d351843cf84082ce92c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Otherwise it would have been convinced by the fact that countries that have made the gun control laws tighter have succeeded in containing crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Otherwise it would have been convinced by the fact that countries that have made the gun control laws tighter have succeeded in containing crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that more less gun ownership results in less crime",
+            "sentence_hash": "c83b85158ff7a38b8715e064169aa9b0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Studies show that more less gun ownership results in less crime",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Studies show that more less gun ownership results in less crime",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the other hand , gun control proponents claim that guns are the weapons of crime , so gun control can be a very effective measure to decrease current crime rates",
+            "sentence_hash": "7b00b16c672979e5a31900349f922ba8",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "On the other hand , gun control proponent ##s claim that guns are the weapons of crime , so gun control can be a very effective measure to decrease current crime rates",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "On the other hand , gun control proponents claim that guns are the weapons of crime , so gun control can be a very effective measure to decrease current crime rates",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control outside the USA Gun control advocates cite foreign countries to argue that gun control can reduce crime",
+            "sentence_hash": "325371bcfb3ebd89287b45f737a92235",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control outside the USA Gun control advocates c ##ite foreign countries to argue that gun control can reduce crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control outside the USA Gun control advocates cite foreign countries to argue that gun control can reduce crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Pro gun lobbyists who do n\u2019t care who gets killed ignore the fact that children and women are much more likely to die if there \u2019s a gun in their house",
+            "sentence_hash": "bf9b336ea85a7545c699d6c48174d89b",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Pro gun lobby ##ists who do n \u2019 t care who gets killed ignore the fact that children and women are much more likely to die if there \u2019 s a gun in their house",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Pro gun lobbyists who do n\u2019t care who gets killed ignore the fact that children and women are much more likely to die if there \u2019s a gun in their house",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that more gun ownership results in less crime",
+            "sentence_hash": "e0e38bbd9e1fbf06cd412bde1606611b",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Studies show that more gun ownership results in less crime",
+            "tokenized_sentence_bert_labels": "non non non con con con con con con con",
+            "tokenized_sentence_spacy": "Studies show that more gun ownership results in less crime",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "For the local people living in the country , they may have heard that there are a lot of incidents in which people use the firearms in a wrong way",
+            "sentence_hash": "e14f1355a5f4615829b1d7a356bdce8b",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "For the local people living in the country , they may have heard that there are a lot of incidents in which people use the firearms in a wrong way",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "For the local people living in the country , they may have heard that there are a lot of incidents in which people use the firearms in a wrong way",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who support gun control claim or pretend that gun control laws significantly reduce violent crime",
+            "sentence_hash": "08c8537d491bbdd8c05f0066ce2a6637",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "People who support gun control claim or pretend that gun control laws significantly reduce violent crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "People who support gun control claim or pretend that gun control laws significantly reduce violent crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The people , who believe in gun control say it will save lives and protect the society",
+            "sentence_hash": "674e7d2e99c89c4ad45365d51cbee59c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The people , who believe in gun control say it will save lives and protect the society",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The people , who believe in gun control say it will save lives and protect the society",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The facts state the obvious and I will prove to you that guncontrol can save lives",
+            "sentence_hash": "35d168f36936bf9586df1f97f68923e4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The facts state the obvious and I will prove to you that gun ##con ##tro ##l can save lives",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The facts state the obvious and I will prove to you that guncontrol can save lives",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They argue that tighter control on hand gun sales and the banning of assault rifle would be beneficial to our society",
+            "sentence_hash": "b2e95ab73c4c7ded8ee59e6e626739f4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They argue that tighter control on hand gun sales and the banning of assault rifle would be beneficial to our society",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "They argue that tighter control on hand gun sales and the banning of assault rifle would be beneficial to our society",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies have found that if there is a gun in a house , the women and children living in that house have a greater risk of falling prey to gun violence",
+            "sentence_hash": "578f8d3a87d9d268bebde02e9fc8155c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Studies have found that if there is a gun in a house , the women and children living in that house have a greater risk of falling prey to gun violence",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Studies have found that if there is a gun in a house , the women and children living in that house have a greater risk of falling prey to gun violence",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "For example , among those who say it is more important to protect gun rights , as many say assault weapons make the country more dangerous",
+            "sentence_hash": "34a2118bc715d004f2e59707bf148ec2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "For example , among those who say it is more important to protect gun rights , as many say assault weapons make the country more dangerous",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "For example , among those who say it is more important to protect gun rights , as many say assault weapons make the country more dangerous",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun Control advocates have long contended that gun control \u2019s main objective is to keep guns out of the hands of criminals",
+            "sentence_hash": "3806b1d2ab2556d78f0f27a4a9393be0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun Control advocates have long con ##tended that gun control \u2019 s main objective is to keep guns out of the hands of criminals",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun Control advocates have long contended that gun control \u2019s main objective is to keep guns out of the hands of criminals",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A states that the law has helped bring down the crime rate",
+            "sentence_hash": "768014ee7f89c22461ad4a6e33aaf791",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A states that the law has helped bring down the crime rate",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "A states that the law has helped bring down the crime rate",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One of gun control \u2019s advertised benefits is that criminals will commit fewer crimes with firearms",
+            "sentence_hash": "608b4b5dc0a72f5dccc4bb52237427fc",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One of gun control \u2019 s advertised benefits is that criminals will commit fewer crimes with firearms",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "One of gun control \u2019s advertised benefits is that criminals will commit fewer crimes with firearms",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that this world would be a safer place without a license to carry",
+            "sentence_hash": "82718e677800948bb7b582d65c793386",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "There is no doubt that this world would be a safer place without a license to carry",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "There is no doubt that this world would be a safer place without a license to carry",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Perhaps their strongest talking point is that britain has stronger gun control laws than the United States and lower murder rates",
+            "sentence_hash": "bfc019621a95cc8cba3500f9316bf8b7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Perhaps their strongest talking point is that br ##ita ##in has stronger gun control laws than the United States and lower murder rates",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Perhaps their strongest talking point is that britain has stronger gun control laws than the United States and lower murder rates",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "These statistics suppose the theory that if guns are around , there is more likelihood that they will be used",
+            "sentence_hash": "9adb9e9de794898de9e6603010282d07",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "These statistics suppose the theory that if guns are around , there is more likelihood that they will be used",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "These statistics suppose the theory that if guns are around , there is more likelihood that they will be used",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Generally people say that gun control is a good initiative so that we can reduce the crime rate",
+            "sentence_hash": "1436b74b5bae7bc8e0192f636db1e126",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Generally people say that gun control is a good initiative so that we can reduce the crime rate",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Generally people say that gun control is a good initiative so that we can reduce the crime rate",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Among statements recorded as anti - gun rights : violent crime occurs because of availability of guns , not criminals ; and gun control prevents crime",
+            "sentence_hash": "1dda8ecfa89e47792476e916caf1fa9d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Among statements recorded as anti - gun rights : violent crime occurs because of availability of guns , not criminals ; and gun control prevents crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Among statements recorded as anti - gun rights : violent crime occurs because of availability of guns , not criminals ; and gun control prevents crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But by and large , people advocate restrictive gun laws because they believe it would be a cheap remedy for a perceived problem",
+            "sentence_hash": "a859f178e9af1179ad463a257bacb92b",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But by and large , people advocate restrict ##ive gun laws because they believe it would be a cheap remedy for a perceived problem",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "But by and large , people advocate restrictive gun laws because they believe it would be a cheap remedy for a perceived problem",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "In addition to this negative data , the gun control article may also cite the information that countries that have tightened their laws have found that gun laws bring down not only murders but also suicides",
+            "sentence_hash": "7bd343908ed39c4e56ded1e851b77eaf",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "In addition to this negative data , the gun control article may also c ##ite the information that countries that have tightened their laws have found that gun laws bring down not only murders but also suicide ##s",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "In addition to this negative data , the gun control article may also cite the information that countries that have tightened their laws have found that gun laws bring down not only murders but also suicides",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Virtually all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting",
+            "sentence_hash": "eafeb821422b39f5487faafda55b688e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Virtual ##ly all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Virtually all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Pro - gun control folks like to believe that some law or another could easily have prevented such a tragedy from ever taking place",
+            "sentence_hash": "c8e341b6426f591612dd67cc0c6946c8",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Pro - gun control folks like to believe that some law or another could easily have prevented such a tragedy from ever taking place",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Pro - gun control folks like to believe that some law or another could easily have prevented such a tragedy from ever taking place",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One common claim of gun control advocates is that gun control in foreign countries , notably Great Britain , is responsible for their lower crime rates",
+            "sentence_hash": "3b67470f43962a0887706f5a5fd57b3a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One common claim of gun control advocates is that gun control in foreign countries , notably Great Britain , is responsible for their lower crime rates",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "One common claim of gun control advocates is that gun control in foreign countries , notably Great Britain , is responsible for their lower crime rates",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said the bill will keep more people safe from gun violence and keep guns out of the wrong hands",
+            "sentence_hash": "bb313da372f96c4ffe51513ba6267c35",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Support ##ers of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said the bill will keep more people safe from gun violence and keep guns out of the wrong hands",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Supporters of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said the bill will keep more people safe from gun violence and keep guns out of the wrong hands",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "At the time , people were already saying that guns were n\u2019t the essential tools that they were for the early settlers",
+            "sentence_hash": "26dc28601b6423da8202fdab18192247",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "At the time , people were already saying that guns were n \u2019 t the essential tools that they were for the early settlers",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "At the time , people were already saying that guns were n\u2019t the essential tools that they were for the early settlers",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control statistics support the idea that chronic lawbreakers , with any history of drug or alcohol abuse , should be barred from getting a gun",
+            "sentence_hash": "c8dfac8fcf7f57071ccb539f762bbe5f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control statistics support the idea that chronic law ##breaker ##s , with any history of drug or alcohol abuse , should be barred from getting a gun",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control statistics support the idea that chronic lawbreakers , with any history of drug or alcohol abuse , should be barred from getting a gun",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "This gun control essay also quoted the results of a study which found that there was no evidence to prove the claim that having more guns would result in less crime",
+            "sentence_hash": "cccaa54d031c60c640fb6497bcc1e042",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "This gun control essay also quoted the results of a study which found that there was no evidence to prove the claim that having more guns would result in less crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "This gun control essay also quoted the results of a study which found that there was no evidence to prove the claim that having more guns would result in less crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Aborn also claimed that gun owners by large majorities support gun registration , licensing , bans on high - capacity magazines , limits on the number of guns you can buy at once , mandatory background checks",
+            "sentence_hash": "e61eb47d0e50af2a78e492fa1d6a45b9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A ##born also claimed that gun owners by large major ##ities support gun registration , licensing , ban ##s on high - capacity magazines , limits on the number of guns you can buy at once , mandatory background checks",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Aborn also claimed that gun owners by large majorities support gun registration , licensing , bans on high - capacity magazines , limits on the number of guns you can buy at once , mandatory background checks",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But half of those with a gun in the household 50 % say allowing citizens to own assault weapons makes the country more dangerous for citizens",
+            "sentence_hash": "b5f35f563f6df8996cbae928ca643d9c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But half of those with a gun in the household 50 % say allowing citizens to own assault weapons makes the country more dangerous for citizens",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "But half of those with a gun in the household 50 % say allowing citizens to own assault weapons makes the country more dangerous for citizens",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates that support the cause of control claim that controlling firearms will lesson criminal action",
+            "sentence_hash": "7ba7c2a074db84f30852e5202bea0002",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Advocate ##s that support the cause of control claim that controlling firearms will lesson criminal action",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Advocates that support the cause of control claim that controlling firearms will lesson criminal action",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control enthusiasts believe the cost will be small",
+            "sentence_hash": "3b54906b9d3f4ea67b578e2778c27ccb",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control enthusiasts believe the cost will be small",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control enthusiasts believe the cost will be small",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The answer that most weakens the argument is that gun laws have indeed lowered violent crimes",
+            "sentence_hash": "6164061907716adc4677757c5a0d1cfa",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The answer that most weaken ##s the argument is that gun laws have indeed lowered violent crimes",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The answer that most weakens the argument is that gun laws have indeed lowered violent crimes",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Almost half , 46 % , think mental health screening would help a lot",
+            "sentence_hash": "52d45ce419c370708ecb6e93195b50ee",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Almost half , 46 % , think mental health screening would help a lot",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Almost half , 46 % , think mental health screening would help a lot",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that current gun control does not make the number of shooting cases too small",
+            "sentence_hash": "ecf661ff2fcd72587e13ef5971e1eae4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that current gun control does not make the number of shooting cases too small",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that current gun control does not make the number of shooting cases too small",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control advocates cite foreign countries to argue that gun control can reduce crime",
+            "sentence_hash": "b456f869751977045fcec3132c62f3e7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Gun control advocates c ##ite foreign countries to argue that gun control can reduce crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Gun control advocates cite foreign countries to argue that gun control can reduce crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who oppose gun control laws claim that allowing people to have guns will help prevent crime",
+            "sentence_hash": "ee7eee09b9c991183f8e035e77b6c46f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "People who oppose gun control laws claim that allowing people to have guns will help prevent crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con con",
+            "tokenized_sentence_spacy": "People who oppose gun control laws claim that allowing people to have guns will help prevent crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the side of no gun regulation , advocates explain that a concealed handgun provides safety",
+            "sentence_hash": "02271cc6d04e983669e0a4b10a3860c1",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "On the side of no gun regulation , advocates explain that a concealed hand ##gun provides safety",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non con con con con con con",
+            "tokenized_sentence_spacy": "On the side of no gun regulation , advocates explain that a concealed handgun provides safety",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gingrich claimed that the Second Amendment allows for a ban on automatic guns , but not on semiautomatic guns",
+            "sentence_hash": "fe9633f1c30c0d0d4232f7cf5c8ed620",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "G ##ing ##rich claimed that the Second Amendment allows for a ban on automatic guns , but not on semi ##aut ##oma ##tic guns",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Gingrich claimed that the Second Amendment allows for a ban on automatic guns , but not on semiautomatic guns",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Such beliefs strengthen conservative talking points that tougher gun control will do nothing against criminals , but simply work to punish law - abiding gun owners",
+            "sentence_hash": "d1c1264f742f0a04d196a1cf5e918056",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Such beliefs strengthen conservative talking points that tough ##er gun control will do nothing against criminals , but simply work to punish law - a ##bid ##ing gun owners",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Such beliefs strengthen conservative talking points that tougher gun control will do nothing against criminals , but simply work to punish law - abiding gun owners",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Of course gun control advocates may disagree with the notion that putting guns back into the hands of citizens would halt the majority of crimes",
+            "sentence_hash": "07c00509bb1f591b76778cd345aad37a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Of course gun control advocates may disagree with the notion that putting guns back into the hands of citizens would halt the majority of crimes",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Of course gun control advocates may disagree with the notion that putting guns back into the hands of citizens would halt the majority of crimes",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of gun control argue that homicide with guns is much less in England than in the United States",
+            "sentence_hash": "774c9bfc799608cf3db61fc9c3d24673",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Support ##ers of gun control argue that homicide with guns is much less in England than in the United States",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Supporters of gun control argue that homicide with guns is much less in England than in the United States",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Fallacy and Motivation for Gun Control gun control potentially causes an increase in crime by restricting its main deterrent : self - defense",
+            "sentence_hash": "d22d7e86657173c8a5799991cb0f5be8",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The Fall ##acy and Mo ##ti ##vation for Gun Control gun control potentially causes an increase in crime by restrict ##ing its main de ##ter ##rent : self - defense",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "The Fallacy and Motivation for Gun Control gun control potentially causes an increase in crime by restricting its main deterrent : self - defense",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that more guns in the hands of the public reduces crime",
+            "sentence_hash": "824bfbdf5a7195c28bb806501f81fd50",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that more guns in the hands of the public reduces crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con",
+            "tokenized_sentence_spacy": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that more guns in the hands of the public reduces crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some experts say even if you own a gun it is not possible to reduce violence all the time",
+            "sentence_hash": "80f825b8a07474c518722c79b87fdadd",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Some experts say even if you own a gun it is not possible to reduce violence all the time",
+            "tokenized_sentence_bert_labels": "non non non con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Some experts say even if you own a gun it is not possible to reduce violence all the time",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But leftists want gun control because fewer guns means greater dependency on government",
+            "sentence_hash": "a2ad9794f38cd331b3ed34f28af6253f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But left ##ists want gun control because fewer guns means greater depend ##ency on government",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con",
+            "tokenized_sentence_spacy": "But leftists want gun control because fewer guns means greater dependency on government",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Anti - gun control folks like to believe that if someone had just been armed in the audience itself , that the guy could have been stopped",
+            "sentence_hash": "f8f2d6bb20fec609d6cb00648f3ac331",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Anti - gun control folks like to believe that if someone had just been armed in the audience itself , that the guy could have been stopped",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Anti - gun control folks like to believe that if someone had just been armed in the audience itself , that the guy could have been stopped",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Independents were divided:50 % said it was more important to protect gun rights",
+            "sentence_hash": "64007a685697670c57688a87d693eaf9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Independent ##s were divided : 50 % said it was more important to protect gun rights",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con",
+            "tokenized_sentence_spacy": "Independents were divided:50 % said it was more important to protect gun rights",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One such argument is that in a democracy , there is no place for any control including gun control",
+            "sentence_hash": "f92728a48aa9cd6022ebadb181388f24",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One such argument is that in a democracy , there is no place for any control including gun control",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "One such argument is that in a democracy , there is no place for any control including gun control",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that more gun ownership results in more crime",
+            "sentence_hash": "c641066bdaf96b1b3808c288f0b11a0f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Studies show that more gun ownership results in more crime",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Studies show that more gun ownership results in more crime",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The argument of gun - rights advocates that firearm ownership is a bedrock freedom as well as a necessary option for self - defense",
+            "sentence_hash": "434b8d75659b76d4a5f02491fc636ddb",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The argument of gun - rights advocates that firearm ownership is a bed ##rock freedom as well as a necessary option for self - defense",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "The argument of gun - rights advocates that firearm ownership is a bedrock freedom as well as a necessary option for self - defense",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The communication strategy of the National Rifle Association centers on the idea that passage of any gun - control measure is a step toward the elimination of all guns",
+            "sentence_hash": "15d35f163d16f62b019ecd5a50c45820",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The communication strategy of the National Rifle Association centers on the idea that passage of any gun - control measure is a step toward the elimination of all guns",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "The communication strategy of the National Rifle Association centers on the idea that passage of any gun - control measure is a step toward the elimination of all guns",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Although there are laws for gun control in the country , it seems that these laws are not very effective",
+            "sentence_hash": "086b9b7fea59a1664d8755e6263b09f0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Although there are laws for gun control in the country , it seems that these laws are not very effective",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non con con con con con con",
+            "tokenized_sentence_spacy": "Although there are laws for gun control in the country , it seems that these laws are not very effective",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that there is absolutely NO evidence supporting the effectiveness of gun control laws",
+            "sentence_hash": "f0afa4285f5bbc605f04e80903152f91",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that there is absolutely NO evidence supporting the effectiveness of gun control laws",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that there is absolutely NO evidence supporting the effectiveness of gun control laws",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They say that gun control laws would prevent individuals from defending themselves and their property lawfully",
+            "sentence_hash": "8c1f6c49a42b24f865bdabe2e71af127",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They say that gun control laws would prevent individuals from defending themselves and their property law ##fully",
+            "tokenized_sentence_bert_labels": "non non non con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "They say that gun control laws would prevent individuals from defending themselves and their property lawfully",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "And one of the scary things is that anti - gun lawmakers KNOW that gun control does nt stop crime",
+            "sentence_hash": "3d84ff898432c6b6dc3d92f0db5c491b",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "And one of the scary things is that anti - gun law ##makers K ##N ##OW that gun control does n ##t stop crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non con con con con con con con",
+            "tokenized_sentence_spacy": "And one of the scary things is that anti - gun lawmakers KNOW that gun control does nt stop crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "sentence_hash": "3068e62798e52666b90754387bd7c836",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A ##rg ##ume ##nts on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of gun control argue that gun owners often use their weapons to deter crime and that handguns are most commonly used for this purpose",
+            "sentence_hash": "b885855da62bcdecca57b93c001a30fb",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Op ##ponents of gun control argue that gun owners often use their weapons to de ##ter crime and that hand ##gun ##s are most commonly used for this purpose",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Opponents of gun control argue that gun owners often use their weapons to deter crime and that handguns are most commonly used for this purpose",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many people argue that they must be allowed to possess guns as they need to have something for self - defence",
+            "sentence_hash": "e29928e042c2805dbab859deb6ed5253",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Many people argue that they must be allowed to possess guns as they need to have something for self - defence",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Many people argue that they must be allowed to possess guns as they need to have something for self - defence",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates of this possession put forward the argument that firearm could help to protect houses from robberies and invasions",
+            "sentence_hash": "b1c3d373a7cfbc0101605efc640d63ba",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Advocate ##s of this possession put forward the argument that firearm could help to protect houses from r ##ob ##ber ##ies and invasions",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Advocates of this possession put forward the argument that firearm could help to protect houses from robberies and invasions",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , gun control opponents say that controlling gun production and distribution violates our right for freedom",
+            "sentence_hash": "14c84854120725770d607aca9d5fe532",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , gun control opponents say that controlling gun production and distribution violate ##s our right for freedom",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Also , gun control opponents say that controlling gun production and distribution violates our right for freedom",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Virtually all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting \u2013 even if they have never gone hunting and never had to defend themselves with a gun",
+            "sentence_hash": "ea6ac416faaec151d2408de99ca6e94d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Virtual ##ly all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting \u2013 even if they have never gone hunting and never had to defend themselves with a gun",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Virtually all gun control advocates say that 30 bullets in a magazine is far too many for self - defense or hunting \u2013 even if they have never gone hunting and never had to defend themselves with a gun",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who have been advocating unrestricted gun ownership have been arguing that when people have guns , they can protect themselves from attacks by criminal elements and this in turn will result in decrease in crime",
+            "sentence_hash": "87c70812680164eccb7cd6db585aff08",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "People who have been advocating unrest ##ricted gun ownership have been arguing that when people have guns , they can protect themselves from attacks by criminal elements and this in turn will result in decrease in crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "People who have been advocating unrestricted gun ownership have been arguing that when people have guns , they can protect themselves from attacks by criminal elements and this in turn will result in decrease in crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Persons in the group against gun control believe that gun control is wrong , and that it is a violation of constitutional rights",
+            "sentence_hash": "042e02598f4714ee99d70c24b04d9444",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Persons in the group against gun control believe that gun control is wrong , and that it is a violation of constitutional rights",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non con con con con con con con",
+            "tokenized_sentence_spacy": "Persons in the group against gun control believe that gun control is wrong , and that it is a violation of constitutional rights",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is a lot to think about in regards to gun control because some Americans argue that tougher laws constitute an infringement not only on their rights , but on their ability to protect themselves and their families from harm",
+            "sentence_hash": "2378d0dd08c6b7ff2a856388e0e33283",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "There is a lot to think about in regards to gun control because some Americans argue that tough ##er laws constitute an infringement not only on their rights , but on their ability to protect themselves and their families from harm",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "There is a lot to think about in regards to gun control because some Americans argue that tougher laws constitute an infringement not only on their rights , but on their ability to protect themselves and their families from harm",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Lott demonstrates that in Britain , Australia and Canada , increased gun control in the late 1990s led to increased crime",
+            "sentence_hash": "6d6329e3a6d09369dd481ba76c180ccc",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Lot ##t demonstrates that in Britain , Australia and Canada , increased gun control in the late 1990s led to increased crime",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Lott demonstrates that in Britain , Australia and Canada , increased gun control in the late 1990s led to increased crime",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Finally , the NRA has successfully argued that gun - control laws are ineffective",
+            "sentence_hash": "368b6428595c7b317c87c2a499f81f17",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Finally , the N ##RA has successfully argued that gun - control laws are ineffective",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non con con con con con con",
+            "tokenized_sentence_spacy": "Finally , the NRA has successfully argued that gun - control laws are ineffective",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One reason is the if we take the guns away from American Citizens , then the criminals will still get the guns in the Black Market and we wo nt have guns to protect yourself and your family",
+            "sentence_hash": "ab6bb0ff82824d2f8b34c17aa324c2ca",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One reason is the if we take the guns away from American Citizens , then the criminals will still get the guns in the Black Market and we w ##o n ##t have guns to protect yourself and your family",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "One reason is the if we take the guns away from American Citizens , then the criminals will still get the guns in the Black Market and we wo nt have guns to protect yourself and your family",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But leftists want gun control because fewer guns mean fewer murders",
+            "sentence_hash": "387145d0ab28f3d4af4ccce8c599588c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But left ##ists want gun control because fewer guns mean fewer murders",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro",
+            "tokenized_sentence_spacy": "But leftists want gun control because fewer guns mean fewer murders",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many argue guns protect us as United States citizens",
+            "sentence_hash": "ed6a01d62ebb9af4422457411854f13f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Many argue guns protect us as United States citizens",
+            "tokenized_sentence_bert_labels": "non non con con con con con con con",
+            "tokenized_sentence_spacy": "Many argue guns protect us as United States citizens",
+            "tokenized_sentence_spacy_labels": "non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They have also stated \u201c a crime victim that has a gun is way better off than one that does not have one \u201d",
+            "sentence_hash": "8e67b3e08aa481ac15eb2a8fe2d557e4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They have also stated \u201c a crime victim that has a gun is way better off than one that does not have one \u201d",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "They have also stated \u201c a crime victim that has a gun is way better off than one that does not have one \u201d",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Majorities of men , whites and Republicans say gun ownership does more to protect people from becoming victims of crime",
+            "sentence_hash": "53fd722671f899bbc32dec672b08493f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Major ##ities of men , whites and Republicans say gun ownership does more to protect people from becoming victims of crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Majorities of men , whites and Republicans say gun ownership does more to protect people from becoming victims of crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Libertarians and conservatives point out that whether or not guns are officially controlled by the government , criminals will commit crimes , and a black market will exist to provide them with firearms",
+            "sentence_hash": "9e1792a1edd0195bb0ebbd173b065b97",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Li ##bert ##arians and conservative ##s point out that whether or not guns are officially controlled by the government , criminals will commit crimes , and a black market will exist to provide them with firearms",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Libertarians and conservatives point out that whether or not guns are officially controlled by the government , criminals will commit crimes , and a black market will exist to provide them with firearms",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "sentence_hash": "dead0d730416bb725f4146cead72252f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A ##rg ##ume ##nts on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Arguments on the other side include the claim that citizens who are issued concealed weapons permits are substantially less likely than the average person to use a gun to commit a crime",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , the problem with this position by gun control supporters is that there is no evidence to show that any of their laws have ever reduced crime or violence",
+            "sentence_hash": "25e704f22ff1e1e0b22a7bc8b7e280ff",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "However , the problem with this position by gun control supporters is that there is no evidence to show that any of their laws have ever reduced crime or violence",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "However , the problem with this position by gun control supporters is that there is no evidence to show that any of their laws have ever reduced crime or violence",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I assert that this is not only unconstitutional , but also would do little to nothing to combat mass gun violence",
+            "sentence_hash": "131eb2ba739be0e5ad6b4a4f54f51063",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I assert that this is not only unconstitutional , but also would do little to nothing to combat mass gun violence",
+            "tokenized_sentence_bert_labels": "non non non con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "I assert that this is not only unconstitutional , but also would do little to nothing to combat mass gun violence",
+            "tokenized_sentence_spacy_labels": "non non non con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of gun control argue that homicide with guns is much less in England than in the United States",
+            "sentence_hash": "6326788bf183e81bd095fdbc9bbb181d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Support ##ers of gun control argue that homicide with guns is much less in England than in the United States",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Supporters of gun control argue that homicide with guns is much less in England than in the United States",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Today we can see that crime rate is increasing without any limits",
+            "sentence_hash": "ea80a910bded05ca11bd4bbb9230cb2a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Today we can see that crime rate is increasing without any limits",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con",
+            "tokenized_sentence_spacy": "Today we can see that crime rate is increasing without any limits",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of gun control argue that this is a misguided position , and that guns actually do more to protect life than end life",
+            "sentence_hash": "7908b32f97a09008efdeda3a2930b812",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Op ##ponents of gun control argue that this is a mi ##s ##gu ##ided position , and that guns actually do more to protect life than end life",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Opponents of gun control argue that this is a misguided position , and that guns actually do more to protect life than end life",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Just 21 % say that permitting these types of weapons makes the country safer",
+            "sentence_hash": "330eac72bb143075cd40dbf2eb9780e0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Just 21 % say that permitting these types of weapons makes the country safer",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con con con",
+            "tokenized_sentence_spacy": "Just 21 % say that permitting these types of weapons makes the country safer",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Existing evidence indicates that the availability of guns plays a small role in causing crime and that gun control does little to reduce crime",
+            "sentence_hash": "03636f93a7a3b6d745e96b3bc2d46b7c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Ex ##ist ##ing evidence indicates that the availability of guns plays a small role in causing crime and that gun control does little to reduce crime",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Existing evidence indicates that the availability of guns plays a small role in causing crime and that gun control does little to reduce crime",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The organization examined 51 of the most prominent gun control studies in the world and found that there is no evidence linking stringent firearms laws with less violence",
+            "sentence_hash": "20b300dbd587a2143134891491cadaa2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The organization examined 51 of the most prominent gun control studies in the world and found that there is no evidence linking string ##ent firearms laws with less violence",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "The organization examined 51 of the most prominent gun control studies in the world and found that there is no evidence linking stringent firearms laws with less violence",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non con con con con con con con con con con con"
+        }
+    ],
+    "school uniforms": [
+        {
+            "Cross-Domain": "Train",
+            "sentence": "--- This is a Train dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Dev",
+            "sentence": "--- This is a Dev dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One of the advantages of school uniforms is that there is nothing to distinguish who is poor or well off",
+            "sentence_hash": "1d83797cbd393994e79e81e779444656",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "One of the advantages of school uniforms is that there is nothing to distinguish who is poor or well off",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "One of the advantages of school uniforms is that there is nothing to distinguish who is poor or well off",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many are convinced that uniforms help to promote discipline and may help to reduce violence",
+            "sentence_hash": "00c861529e14f56215a6f6ff1925bd5a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Many are convinced that uniforms help to promote discipline and may help to reduce violence",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Many are convinced that uniforms help to promote discipline and may help to reduce violence",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I suspect that non school uniform days add considerably to the pressure as it creates a sense of occasion",
+            "sentence_hash": "04f47f79a25b1f2621573cd8357808d6",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I suspect that non school uniform days add considerably to the pressure as it creates a sense of occasion",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I suspect that non school uniform days add considerably to the pressure as it creates a sense of occasion",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is also worth noting that uniforms do not have to be expensive , they can simply be particular pants and sweaters",
+            "sentence_hash": "740316cd0a3925b48233d54f1bc7cc51",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It is also worth noting that uniforms do not have to be expensive , they can simply be particular pants and sweater ##s",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "It is also worth noting that uniforms do not have to be expensive , they can simply be particular pants and sweaters",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "This is generally a positive thing , since it means that children can get a lot of wear out of them and parents do n\u2019t have to spend so much on clothing",
+            "sentence_hash": "914edea0e099e678a720863a0775c9f2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "This is generally a positive thing , since it means that children can get a lot of wear out of them and parents do n \u2019 t have to spend so much on clothing",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "This is generally a positive thing , since it means that children can get a lot of wear out of them and parents do n\u2019t have to spend so much on clothing",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I also find that it allows me to buy fewer pieces of clothing since you do n\u2019t feel like you need a larger variety to avoid repeats",
+            "sentence_hash": "21d4591f6d9a679cfe38362c32d87b8f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I also find that it allows me to buy fewer pieces of clothing since you do n \u2019 t feel like you need a larger variety to avoid repeats",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I also find that it allows me to buy fewer pieces of clothing since you do n\u2019t feel like you need a larger variety to avoid repeats",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I think that school uniform prices are reasonable",
+            "sentence_hash": "8bb26669df69925dbb262af79c755d9e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I think that school uniform prices are reasonable",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I think that school uniform prices are reasonable",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some people may think that uniforms may be to expensive",
+            "sentence_hash": "526e5eb193040abea9bb9a5a9a9d3da1",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Some people may think that uniforms may be to expensive",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con",
+            "tokenized_sentence_spacy": "Some people may think that uniforms may be to expensive",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The second argument states that uniforms reduce violence by providing easy identification of intruders on campus and eliminating fights over apparel",
+            "sentence_hash": "529406f76aeb04356084b8c100b84a57",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The second argument states that uniforms reduce violence by providing easy identification of in ##truder ##s on campus and eliminating fights over app ##arel",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The second argument states that uniforms reduce violence by providing easy identification of intruders on campus and eliminating fights over apparel",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : they save money",
+            "sentence_hash": "1ef0c7d945db026afbdba964a0a636c7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : they save money",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non pro pro pro",
+            "tokenized_sentence_spacy": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : they save money",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They discovered that families whose children attended \u201c uniform \u201d schools spent an average of $ 85 less on clothes per year than families whose children did not",
+            "sentence_hash": "bcbe8cdf351a2c065ab2b8df797dd37c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They discovered that families whose children attended \u201c uniform \u201d schools spent an average of $ 85 less on clothes per year than families whose children did not",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "They discovered that families whose children attended \u201c uniform \u201d schools spent an average of $ 85 less on clothes per year than families whose children did not",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "TwoBears said the middle school has a program that enables parents to buy used uniforms",
+            "sentence_hash": "6fcdfc8fb2fe551bc379e739ec9716a7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Two ##B ##ear ##s said the middle school has a program that enables parents to buy used uniforms",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "TwoBears said the middle school has a program that enables parents to buy used uniforms",
+            "tokenized_sentence_spacy_labels": "non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It ensures that the juveniles not only have better education , but they also are trained to become virtuous people",
+            "sentence_hash": "fa5f7a6fddeaa34f4dbf3f487de0eec9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It ensures that the juvenile ##s not only have better education , but they also are trained to become v ##irt ##uous people",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "It ensures that the juveniles not only have better education , but they also are trained to become virtuous people",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But he also recognises the practical advantages a uniform can provide , such as easing the task of dressing children on busy school mornings",
+            "sentence_hash": "c6a724c8a69406cac8a2eb47ec424b23",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But he also recognise ##s the practical advantages a uniform can provide , such as e ##asing the task of dressing children on busy school mornings",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "But he also recognises the practical advantages a uniform can provide , such as easing the task of dressing children on busy school mornings",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Parents may also be concerned that the time that children spend preparing their clothes for school the next day could be better spent if uniforms were allowed",
+            "sentence_hash": "790c6e16eff4f3d3ecb7afae6b8d6658",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Parents may also be concerned that the time that children spend preparing their clothes for school the next day could be better spent if uniforms were allowed",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Parents may also be concerned that the time that children spend preparing their clothes for school the next day could be better spent if uniforms were allowed",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , disparities in student socioeconomic levels are less obvious and disruptive incidents are less likely to occur",
+            "sentence_hash": "011919c1716bfb600d49b41d3a01fad3",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , di ##sp ##ari ##ties in student socio ##economic levels are less obvious and disrupt ##ive incidents are less likely to occur",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , disparities in student socioeconomic levels are less obvious and disruptive incidents are less likely to occur",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "He said mandatory uniforms will give students a  wholesome  look , make it more difficult for students to conceal weapons  in part because shirts must be tucked in  and will help school officials identify  anyone who does not belong on the campus",
+            "sentence_hash": "fc05599e9b60f23626fd638db42149f0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "He said mandatory uniforms will give students a whole ##some look , make it more difficult for students to conceal weapons in part because shirts must be tucked in and will help school officials identify anyone who does not belong on the campus",
+            "tokenized_sentence_bert_labels": "non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "He said mandatory uniforms will give students a   wholesome   look , make it more difficult for students to conceal weapons   in part because shirts must be tucked in   and will help school officials identify   anyone who does not belong on the campus",
+            "tokenized_sentence_spacy_labels": "non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , I imagine uniforms would rid teachers and schools of some of the problems that come with dress code violations",
+            "sentence_hash": "b1690c1ec4a582f47ba39e4c5e06689f",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "However , I imagine uniforms would rid teachers and schools of some of the problems that come with dress code violations",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "However , I imagine uniforms would rid teachers and schools of some of the problems that come with dress code violations",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Experts believe that the use of school uniforms is more affordable to families because there is not as much pressure to buy expensive , trendy clothing",
+            "sentence_hash": "266e0e4dad07b997d5430276c00712aa",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Ex ##pert ##s believe that the use of school uniforms is more affordable to families because there is not as much pressure to buy expensive , trend ##y clothing",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Experts believe that the use of school uniforms is more affordable to families because there is not as much pressure to buy expensive , trendy clothing",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "When children wear school uniforms , parents do not have to worry about being able to purchase designer clothing or expensive brands",
+            "sentence_hash": "7b1fe386ca5c581a286b1cacbd78014e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "When children wear school uniforms , parents do not have to worry about being able to purchase designer clothing or expensive brands",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "When children wear school uniforms , parents do not have to worry about being able to purchase designer clothing or expensive brands",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that uniforms make for a safer school environment",
+            "sentence_hash": "2948a36da0d8453b3b9f17fd74670c5e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that uniforms make for a safer school environment",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that uniforms make for a safer school environment",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another positive effect of school uniforms is saving expenses on children s clothing and uniforms definitely are cheaper than many other brand - name clothes on the market today",
+            "sentence_hash": "7aa4c3ef7cb67a89c9710e29af695d88",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Another positive effect of school uniforms is saving expenses on children s clothing and uniforms definitely are cheaper than many other brand - name clothes on the market today",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Another positive effect of school uniforms is saving expenses on children s clothing and uniforms definitely are cheaper than many other brand - name clothes on the market today",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is important as it can give benefit for school financially",
+            "sentence_hash": "d2bcd0f29963ecdf62d5112246de4109",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It is important as it can give benefit for school financially",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "It is important as it can give benefit for school financially",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Other supporters feel uniforms will help students maintain some stability in their lives , encourage them to concentrate on developing their inner self , and concentrate more on accumulating knowledge which would enhance their life",
+            "sentence_hash": "e8416a6301f7d61e82631391c2d2c705",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Other supporters feel uniforms will help students maintain some stability in their lives , encourage them to concentrate on developing their inner self , and concentrate more on a ##cc ##um ##ulating knowledge which would enhance their life",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Other supporters feel uniforms will help students maintain some stability in their lives , encourage them to concentrate on developing their inner self , and concentrate more on accumulating knowledge which would enhance their life",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Flynn said he also has seen an increase in public school clients who want a specific , identifiable uniform",
+            "sentence_hash": "cfdd4b567db32f7e15738f818335f423",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Flynn said he also has seen an increase in public school clients who want a specific , id ##ent ##ifiable uniform",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Flynn said he also has seen an increase in public school clients who want a specific , identifiable uniform",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Not only is it a proven fact that they improve school discipline , grades , and improve tolerance",
+            "sentence_hash": "310880d1dd5b5a78594deb72c2d675f0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Not only is it a proven fact that they improve school discipline , grades , and improve tolerance",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Not only is it a proven fact that they improve school discipline , grades , and improve tolerance",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "etc , I think a big advantage is that they improve school discipline , grades , and improve tolerance",
+            "sentence_hash": "69e9e9b906e0bc5877a9de0efd75d8d2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "etc , I think a big advantage is that they improve school discipline , grades , and improve tolerance",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "etc , I think a big advantage is that they improve school discipline , grades , and improve tolerance",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that students will always apply and respond to social pressure",
+            "sentence_hash": "1b8ab986d9c1673a962e10b6eb8deada",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "There is no doubt that students will always apply and respond to social pressure",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "There is no doubt that students will always apply and respond to social pressure",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Moreover , when students are adorned in school uniforms it makes it easier to identify and recognize children in public in case of an emergency",
+            "sentence_hash": "0022daa73165bb398b786e3ccbb97034",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Moreover , when students are adorned in school uniforms it makes it easier to identify and recognize children in public in case of an emergency",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Moreover , when students are adorned in school uniforms it makes it easier to identify and recognize children in public in case of an emergency",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "sentence_hash": "a3b41da7a007ba5944033e8bad0bc871",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "No one can deny the importance of wearing school uniforms because schools have their own uniform to represent them",
+            "sentence_hash": "b71754b9033598c223bc27c130d41127",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "No one can deny the importance of wearing school uniforms because schools have their own uniform to represent them",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "No one can deny the importance of wearing school uniforms because schools have their own uniform to represent them",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some parents report that uniforms appeared to be more durable",
+            "sentence_hash": "82a3f926e49a33a60036c9e69d3ca05a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Some parents report that uniforms appeared to be more du ##rable",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Some parents report that uniforms appeared to be more durable",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "\"While clothing is a minor issue when it comes to education ;\" uniforms appeared to be more durable",
+            "sentence_hash": "c12149a090bd207e3b3c38fcdb6ea77a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "\" While clothing is a minor issue when it comes to education ; \" uniforms appeared to be more du ##rable",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "\" While clothing is a minor issue when it comes to education ; \" uniforms appeared to be more durable",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , people say that the uniform is expensive",
+            "sentence_hash": "82027bc16bbb43d29cfdefb450b5baba",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , people say that the uniform is expensive",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con",
+            "tokenized_sentence_spacy": "Also , people say that the uniform is expensive",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Main appeal for me is - it makes mornings easy as there are no decisions to make",
+            "sentence_hash": "5bbc9ab15819485b602fa387283b8ff9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Main appeal for me is - it makes mornings easy as there are no decisions to make",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Main appeal for me is - it makes mornings easy as there are no decisions to make",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the other hand some people argue that uniforms are cheaper than buying children street clothing",
+            "sentence_hash": "8518843854adb1ba17f0151ee8ec3aa3",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "On the other hand some people argue that uniforms are cheaper than buying children street clothing",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "On the other hand some people argue that uniforms are cheaper than buying children street clothing",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , Siegel argues that younger children can be persuaded to wear school uniforms",
+            "sentence_hash": "77870ab624ade7388c9baa041a8f60a6",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , Siege ##l argues that younger children can be persuaded to wear school uniforms",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Also , Siegel argues that younger children can be persuaded to wear school uniforms",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I actually believe that uniforms can be a great advantage for schools",
+            "sentence_hash": "8b591e007529ec42ffeb19831e04a973",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I actually believe that uniforms can be a great advantage for schools",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I actually believe that uniforms can be a great advantage for schools",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , it has been proven that wearing uniforms provides less of a distraction than fashionable clothes create",
+            "sentence_hash": "32ea75aa57577012cfb4331815ef8d7e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , it has been proven that wearing uniforms provides less of a distraction than fashionable clothes create",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Also , it has been proven that wearing uniforms provides less of a distraction than fashionable clothes create",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Uniforms are good , because that way you ca nt differentiate a higher class from a lower class",
+            "sentence_hash": "dead5584ea1004d58d233af75e9fe09d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Un ##iform ##s are good , because that way you ca n ##t differentiate a higher class from a lower class",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Uniforms are good , because that way you ca nt differentiate a higher class from a lower class",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It has been argued that uniforms force conformity",
+            "sentence_hash": "de0f4186f1389a52dceef45b67a5aff3",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It has been argued that uniforms force conform ##ity",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con",
+            "tokenized_sentence_spacy": "It has been argued that uniforms force conformity",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The only thing I feel is potentially positive about the school uniform movement is that it gives kids the chance to disguise their socioeconomic status",
+            "sentence_hash": "4c9cfb18439a082ed39d9fb3e311ec53",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The only thing I feel is potentially positive about the school uniform movement is that it gives kids the chance to disguise their socio ##economic status",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The only thing I feel is potentially positive about the school uniform movement is that it gives kids the chance to disguise their socioeconomic status",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Schools think that this uniform policy will help bring down crime rates , gangs , improve the schools over all academic achievement",
+            "sentence_hash": "dc5e36d734b63fe637026a41fc045a40",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Schools think that this uniform policy will help bring down crime rates , gangs , improve the schools over all academic achievement",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Schools think that this uniform policy will help bring down crime rates , gangs , improve the schools over all academic achievement",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A lot of the research in support of school uniforms says that requiring children to wear the same thing will actually help boost test scores and improve learning",
+            "sentence_hash": "40d442a29a4758ad3f50dd600c09c2dd",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A lot of the research in support of school uniforms says that requiring children to wear the same thing will actually help boost test scores and improve learning",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "A lot of the research in support of school uniforms says that requiring children to wear the same thing will actually help boost test scores and improve learning",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Most principals 83 percent said that uniforms have improved their school \u2019s image in the community",
+            "sentence_hash": "6e6b185a076729f3cd95b2e57e4eb2ad",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Most principal ##s 83 percent said that uniforms have improved their school \u2019 s image in the community",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Most principals 83 percent said that uniforms have improved their school \u2019s image in the community",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They look at the statistics in this case and come to the conclusion that school uniforms are an efficient deterrent against youth violence that also help boost attendance rates and test scores",
+            "sentence_hash": "2c8e16b57285d81985745724ec3763a1",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They look at the statistics in this case and come to the conclusion that school uniforms are an efficient de ##ter ##rent against youth violence that also help boost attendance rates and test scores",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "They look at the statistics in this case and come to the conclusion that school uniforms are an efficient deterrent against youth violence that also help boost attendance rates and test scores",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Its good because eveyone has to wear the same and people ca nt show off with their exspensive fasion clothes",
+            "sentence_hash": "d8187bd0d4fa8c3b2fd57d97cebfe032",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Its good because eve ##yon ##e has to wear the same and people ca n ##t show off with their ex ##sp ##ens ##ive f ##asi ##on clothes",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Its good because eveyone has to wear the same and people ca nt show off with their exspensive fasion clothes",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates for students wearing uniforms contend that this will make them more equal in each others eyes , and eliminate a lot of needless competition and low self esteem",
+            "sentence_hash": "3924916e8e26a065faca7838204914d2",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Advocate ##s for students wearing uniforms con ##tend that this will make them more equal in each others eyes , and eliminate a lot of needles ##s competition and low self esteem",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Advocates for students wearing uniforms contend that this will make them more equal in each others eyes , and eliminate a lot of needless competition and low self esteem",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Plenty of pro - uniform politicians will argue that school uniforms are effective in improving a student \u2019s education by diminishing distractions in class",
+            "sentence_hash": "645299159ad3c7a94e713bbd2f2b5eed",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "P ##lent ##y of pro - uniform politicians will argue that school uniforms are effective in improving a student \u2019 s education by dim ##ini ##shing distraction ##s in class",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Plenty of pro - uniform politicians will argue that school uniforms are effective in improving a student \u2019s education by diminishing distractions in class",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that some children spend more time selecting their wardrobe then doing their home work",
+            "sentence_hash": "4085b94b3853e8e5545068399148a1b7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "There is no doubt that some children spend more time selecting their wardrobe then doing their home work",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "There is no doubt that some children spend more time selecting their wardrobe then doing their home work",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies have also shown that students wearing uniforms in schools perform better , they have more respect for authority , and they tend to be more successful in their future compared to schools without uniforms",
+            "sentence_hash": "cb1f821a8b0ce9f970414af856858272",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Studies have also shown that students wearing uniforms in schools perform better , they have more respect for authority , and they tend to be more successful in their future compared to schools without uniforms",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Studies have also shown that students wearing uniforms in schools perform better , they have more respect for authority , and they tend to be more successful in their future compared to schools without uniforms",
+            "tokenized_sentence_spacy_labels": "non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "From personal experience i can say that uniforms made life easy and less stressful for students who did not have the nicest clothes",
+            "sentence_hash": "940543947462d1d275b78d113db4ee97",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "From personal experience i can say that uniforms made life easy and less stress ##ful for students who did not have the nice ##st clothes",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "From personal experience i can say that uniforms made life easy and less stressful for students who did not have the nicest clothes",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Officials say the uniforms are expected to build school identity , help improve student self - esteem and academic performance and eliminate pressures of competition among students over how they dress",
+            "sentence_hash": "2411e001655c2a4dcfd4f3b27099f260",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Official ##s say the uniforms are expected to build school identity , help improve student self - esteem and academic performance and eliminate pressures of competition among students over how they dress",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Officials say the uniforms are expected to build school identity , help improve student self - esteem and academic performance and eliminate pressures of competition among students over how they dress",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Parents also say \u201c yay to uniforms because in our society , many jobs required some sort of uniform ; students are simply in the \u201c business of learning",
+            "sentence_hash": "79baab066acaab7cab2c0288ec2167b0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Parents also say \u201c ya ##y to uniforms because in our society , many jobs required some sort of uniform ; students are simply in the \u201c business of learning",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Parents also say \u201c yay to uniforms because in our society , many jobs required some sort of uniform ; students are simply in the \u201c business of learning",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who are for it say that uniforms create a sense of equality for all students , so that students who are too poor to afford good clothes do not feel discriminated against those who have good clothes",
+            "sentence_hash": "59ea48ec05167c9c295140b9c7309794",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "People who are for it say that uniforms create a sense of equality for all students , so that students who are too poor to afford good clothes do not feel disc ##rim ##inated against those who have good clothes",
+            "tokenized_sentence_bert_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "People who are for it say that uniforms create a sense of equality for all students , so that students who are too poor to afford good clothes do not feel discriminated against those who have good clothes",
+            "tokenized_sentence_spacy_labels": "non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I think this helps regarding discipline and helps maintain a good learning environment",
+            "sentence_hash": "2afa3e5ada2398a832fa2df67a0b33ca",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I think this helps regarding discipline and helps maintain a good learning environment",
+            "tokenized_sentence_bert_labels": "non non pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I think this helps regarding discipline and helps maintain a good learning environment",
+            "tokenized_sentence_spacy_labels": "non non pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "You may say that having a uniform helps students and parents resist peer pressure",
+            "sentence_hash": "3827cb6a2465383f546ac260a45ed46c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "You may say that having a uniform helps students and parents resist peer pressure",
+            "tokenized_sentence_bert_labels": "non non non non pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "You may say that having a uniform helps students and parents resist peer pressure",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Furthermore , they strongly felt that the problems related to pupils having inadequate pairs of school uniform could be solved if the government provided them",
+            "sentence_hash": "97601790df61a9c9ed71cc004c07f54c",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Furthermore , they strongly felt that the problems related to pupils having inadequate pairs of school uniform could be solved if the government provided them",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Furthermore , they strongly felt that the problems related to pupils having inadequate pairs of school uniform could be solved if the government provided them",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Schools argue that school uniforms are economical",
+            "sentence_hash": "dfe1b6049ddb24bc05286733b015eacf",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Schools argue that school uniforms are economical",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro",
+            "tokenized_sentence_spacy": "Schools argue that school uniforms are economical",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another reason some might agree with D'silva is school uniforms are economical",
+            "sentence_hash": "d39909bf4c51ffbd661649429bdae815",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Another reason some might agree with D ' si ##l ##va is school uniforms are economical",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro",
+            "tokenized_sentence_spacy": "Another reason some might agree with D'silva is school uniforms are economical",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I 'd argue that school uniforms are economical",
+            "sentence_hash": "018cf5cc9a88c3b4584b8dd9f93b8c8d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I ' d argue that school uniforms are economical",
+            "tokenized_sentence_bert_labels": "non non non non non pro pro pro pro",
+            "tokenized_sentence_spacy": "I 'd argue that school uniforms are economical",
+            "tokenized_sentence_spacy_labels": "non non non non pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Initially , they pointed to studies that said uniforms reduced bullying , made schools safer , improved test grades , and saved the parents bundles of money",
+            "sentence_hash": "c131bbb375d039aee6fe6ea9c8bf6df4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Initially , they pointed to studies that said uniforms reduced bullying , made schools safer , improved test grades , and saved the parents bundle ##s of money",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Initially , they pointed to studies that said uniforms reduced bullying , made schools safer , improved test grades , and saved the parents bundles of money",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I feel that in areas where many parents are already struggling financially , school uniforms make it far easier for parents to clothe their children for school",
+            "sentence_hash": "d875c0e2232de0d8d29d8cfd1ab2fa92",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I feel that in areas where many parents are already struggling financially , school uniforms make it far easier for parents to cloth ##e their children for school",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "I feel that in areas where many parents are already struggling financially , school uniforms make it far easier for parents to clothe their children for school",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We may therefore reasonably conclude that it makes a positive contribution to having a serious attitude towards education",
+            "sentence_hash": "2aed1069b30c7021c3d289f3dc7af6d5",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "We may therefore reasonably conclude that it makes a positive contribution to having a serious attitude towards education",
+            "tokenized_sentence_bert_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "We may therefore reasonably conclude that it makes a positive contribution to having a serious attitude towards education",
+            "tokenized_sentence_spacy_labels": "non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Point Schools that have a uniform often say that they do so because wearing a uniform helps their students feel a sense of unity and pride in their school",
+            "sentence_hash": "fbe0e9acd931831c5efca88879b43c08",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Point Schools that have a uniform often say that they do so because wearing a uniform helps their students feel a sense of unity and pride in their school",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Point Schools that have a uniform often say that they do so because wearing a uniform helps their students feel a sense of unity and pride in their school",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "An additional argument put forth by those in favor of uniforms advocates that they decrease violence among students involved in gangs because there will be less chance of identifying gangs members through the clothing colors they wear",
+            "sentence_hash": "64b52031dff85581f35403c5f5447123",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "An additional argument put forth by those in favor of uniforms advocates that they decrease violence among students involved in gangs because there will be less chance of identifying gangs members through the clothing colors they wear",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "An additional argument put forth by those in favor of uniforms advocates that they decrease violence among students involved in gangs because there will be less chance of identifying gangs members through the clothing colors they wear",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They observed that the adoption of school uniform policies can promote school safety , improve discipline , and enhance the learning environment",
+            "sentence_hash": "47d25d60b541e0a1093dc16dfaf1fca6",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They observed that the adoption of school uniform policies can promote school safety , improve discipline , and enhance the learning environment",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "They observed that the adoption of school uniform policies can promote school safety , improve discipline , and enhance the learning environment",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The school board states that in most case the uniforms are less expensive than typical clothing",
+            "sentence_hash": "9574fdf1f1649c56a16fba6bb263e679",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The school board states that in most case the uniforms are less expensive than typical clothing",
+            "tokenized_sentence_bert_labels": "non non non non non non non non pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "The school board states that in most case the uniforms are less expensive than typical clothing",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Clinton -- along with many other legislators , educators , and parents -- believes that uniforms can increase student safety and enhance the learning environment in our nation s schools",
+            "sentence_hash": "478b7357711ea7e4479211814223a643",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Clinton - - along with many other legislators , educators , and parents - - believes that uniforms can increase student safety and enhance the learning environment in our nation s schools",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Clinton -- along with many other legislators , educators , and parents -- believes that uniforms can increase student safety and enhance the learning environment in our nation s schools",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "As a teacher , I also observed some positive effects of having students wear uniforms , such as fewer distractions in the classroom and a shift in student focus away from physical appearance",
+            "sentence_hash": "d9dd6bc6ea9a38380f0a3b2dcaa22fec",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "As a teacher , I also observed some positive effects of having students wear uniforms , such as fewer distraction ##s in the classroom and a shift in student focus away from physical appearance",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "As a teacher , I also observed some positive effects of having students wear uniforms , such as fewer distractions in the classroom and a shift in student focus away from physical appearance",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "School board has come up with the decision because they believe that the mandatory use of uniform reduces violence within the school",
+            "sentence_hash": "aa6f772da5244fede3aec4aa570d1e2d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "School board has come up with the decision because they believe that the mandatory use of uniform reduces violence within the school",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "School board has come up with the decision because they believe that the mandatory use of uniform reduces violence within the school",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "He said cost is not a factor because the district can mandate a uniform of like colors and attire that parents can buy cheaply at Walmart or Kmart",
+            "sentence_hash": "6ed6ea64f469e18a5702dcac53ee2234",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "He said cost is not a factor because the district can mandate a uniform of like colors and attire that parents can buy cheap ##ly at W ##al ##mart or K ##mart",
+            "tokenized_sentence_bert_labels": "non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "He said cost is not a factor because the district can mandate a uniform of like colors and attire that parents can buy cheaply at Walmart or Kmart",
+            "tokenized_sentence_spacy_labels": "non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": ", if only they realize that the fabric is too thick and hot",
+            "sentence_hash": "92b15dd93afa4f970a2c150cd9e9337d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": ", if only they realize that the fabric is too thick and hot",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con",
+            "tokenized_sentence_spacy": ", if only they realize that the fabric is too thick and hot",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "sentence_hash": "e411afc0fe94045123cc804662caae03",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "tokenized_sentence_bert_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "We know that a school uniform policy can help reduce instances of classroom discipline and bullying , as well as improve student safety and attendance",
+            "tokenized_sentence_spacy_labels": "non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "If we are arguing solely on the premise that uniforms create a sense of community",
+            "sentence_hash": "04a506508c54a272120d7eb2b3f3e1b0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "If we are arguing solely on the premise that uniforms create a sense of community",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "If we are arguing solely on the premise that uniforms create a sense of community",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "\"; administrators like them for the simple reason\" uniforms create a sense of community",
+            "sentence_hash": "07add180a0299e6a7dbed25c34582ec1",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "\" ; administrators like them for the simple reason \" uniforms create a sense of community",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "\" ; administrators like them for the simple reason \" uniforms create a sense of community",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "According to a new study by researchers at the University of Houston , school uniforms seem to be decently effective at improving student attendance and teacher retention",
+            "sentence_hash": "ccbb401a58ac6b837a2809c7f17bdcee",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "According to a new study by researchers at the University of Houston , school uniforms seem to be decent ##ly effective at improving student attendance and teacher retention",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "According to a new study by researchers at the University of Houston , school uniforms seem to be decently effective at improving student attendance and teacher retention",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Public schools : Most of the public elementary schools do n't require the kids to wear uniforms , in part because school uniforms seem to be decently effective at improving student attendance and teacher retention",
+            "sentence_hash": "20f79ec77ba2c5dcf8258bf57e2902e1",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Public schools : Most of the public elementary schools do n ' t require the kids to wear uniforms , in part because school uniforms seem to be decent ##ly effective at improving student attendance and teacher retention",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro",
+            "tokenized_sentence_spacy": "Public schools : Most of the public elementary schools do n't require the kids to wear uniforms , in part because school uniforms seem to be decently effective at improving student attendance and teacher retention",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non pro pro pro pro pro pro pro pro pro pro pro pro pro pro"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They would argue that expecting them to assume the cost of outfitting their children with new school uniforms is an unreasonable financial burden",
+            "sentence_hash": "b5efa7b2f3156c3d41a717c2cdccab9e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "They would argue that expecting them to assume the cost of outfit ##ting their children with new school uniforms is an un ##rea ##son ##able financial burden",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "They would argue that expecting them to assume the cost of outfitting their children with new school uniforms is an unreasonable financial burden",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But as I pointed out , there is no study done in a controlled setting that says that uniforms will actually increase quality of education",
+            "sentence_hash": "bccdc637f0fe6a7c59fad37803259469",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But as I pointed out , there is no study done in a controlled setting that says that uniforms will actually increase quality of education",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "But as I pointed out , there is no study done in a controlled setting that says that uniforms will actually increase quality of education",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But other parents disagreed , saying uniforms would create bigger laundry loads since children change into a new outfit when they get home",
+            "sentence_hash": "45f8e5b9895307a9e806c784d94c442d",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "But other parents disagreed , saying uniforms would create bigger laundry loads since children change into a new outfit when they get home",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "But other parents disagreed , saying uniforms would create bigger laundry loads since children change into a new outfit when they get home",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is also being argued by them that students should not be constrained into wearing school uniforms and that they have their rights to wear any outfit they want to school",
+            "sentence_hash": "b8ec540de311afa65d90b62b8fc75c99",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It is also being argued by them that students should not be con ##stra ##ined into wearing school uniforms and that they have their rights to wear any outfit they want to school",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "It is also being argued by them that students should not be constrained into wearing school uniforms and that they have their rights to wear any outfit they want to school",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , people say that wearing casual clothes will allow students to express themselves",
+            "sentence_hash": "3279df85bfde0bd934516a316094c7f4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , people say that wearing casual clothes will allow students to express themselves",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con con con",
+            "tokenized_sentence_spacy": "Also , people say that wearing casual clothes will allow students to express themselves",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many children and some parents believe that school uniform should be banned because they are too expensive and that they should wear their favourite clothes",
+            "sentence_hash": "6500cd06385ea9ba706001c60a04fc56",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Many children and some parents believe that school uniform should be banned because they are too expensive and that they should wear their favourite clothes",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Many children and some parents believe that school uniform should be banned because they are too expensive and that they should wear their favourite clothes",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The main argument against having uniforms in the school system is that having the children dress up in alike uniforms does not actually in reality solve any of the problems that many of us think it would",
+            "sentence_hash": "1df0fcb908ca5d3291a17f20a2aebbc4",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "The main argument against having uniforms in the school system is that having the children dress up in alike uniforms does not actually in reality solve any of the problems that many of us think it would",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "The main argument against having uniforms in the school system is that having the children dress up in alike uniforms does not actually in reality solve any of the problems that many of us think it would",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I strongly believe that it ll be a big burden for some certain parents",
+            "sentence_hash": "d88ad5536f1e9fdee3f9e3e6ccef9207",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I strongly believe that it ll be a big burden for some certain parents",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con",
+            "tokenized_sentence_spacy": "I strongly believe that it ll be a big burden for some certain parents",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "From experience I can say that highschool students are still finding out who they are and showing them that to be excepted and not made fun of you need to be dressed like everyone else is wrong",
+            "sentence_hash": "6c4273789becfa310e4bfad9d7c249a9",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "From experience I can say that high ##school students are still finding out who they are and showing them that to be except ##ed and not made fun of you need to be dressed like everyone else is wrong",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "From experience I can say that highschool students are still finding out who they are and showing them that to be excepted and not made fun of you need to be dressed like everyone else is wrong",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "As stated by the Public School Review , under the First Amendment , it argues that uniforms stifle children who feel robbed of their individualism",
+            "sentence_hash": "7dda06a74b1793b624d1b488e5ea8d19",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "As stated by the Public School Review , under the First Amendment , it argues that uniforms s ##ti ##fle children who feel robbed of their individual ##ism",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "As stated by the Public School Review , under the First Amendment , it argues that uniforms stifle children who feel robbed of their individualism",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , there is the fact that parents would be forced to buy the uniforms , potentially making them spend money that they might need for bills or food",
+            "sentence_hash": "883891d7717bbd5b6bde36113ba00b1e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Also , there is the fact that parents would be forced to buy the uniforms , potentially making them spend money that they might need for bills or food",
+            "tokenized_sentence_bert_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Also , there is the fact that parents would be forced to buy the uniforms , potentially making them spend money that they might need for bills or food",
+            "tokenized_sentence_spacy_labels": "non non non non non non non con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of uniforms suggest that they violate freedom of expression , can be a financial burden on poor families , are an unfair additional expense for parents who pay school taxes , and are difficult to enforce in public schools",
+            "sentence_hash": "b66a02c2ac8ae82c7c13cbf0506a17c7",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Op ##ponents of uniforms suggest that they violate freedom of expression , can be a financial burden on poor families , are an unfair additional expense for parents who pay school taxes , and are difficult to enforce in public schools",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Opponents of uniforms suggest that they violate freedom of expression , can be a financial burden on poor families , are an unfair additional expense for parents who pay school taxes , and are difficult to enforce in public schools",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some people said that uniform is not good for college student because college students are mature enough to choose what they want to wear",
+            "sentence_hash": "52065754d6d8993ffa7613d586836135",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Some people said that uniform is not good for college student because college students are mature enough to choose what they want to wear",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Some people said that uniform is not good for college student because college students are mature enough to choose what they want to wear",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I personally believe that an uniform lowers some students self esteem even more",
+            "sentence_hash": "3c9933be0932eefd692c3e55e7ed6255",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I personally believe that an uniform lower ##s some students self esteem even more",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con",
+            "tokenized_sentence_spacy": "I personally believe that an uniform lowers some students self esteem even more",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A typical complaint is that the school uniform prevents the students from self - expression",
+            "sentence_hash": "ddba1a423561f6a5aac1e3eb358d6db6",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "A typical complaint is that the school uniform prevents the students from self - expression",
+            "tokenized_sentence_bert_labels": "non non non non non con con con con con con con con con con",
+            "tokenized_sentence_spacy": "A typical complaint is that the school uniform prevents the students from self - expression",
+            "tokenized_sentence_spacy_labels": "non non non non non con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , they also said their research shows uniforms limit expression and individuality",
+            "sentence_hash": "960b6cbb08c47d22c72ab39d289cf7ff",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "However , they also said their research shows uniforms limit expression and individual ##ity",
+            "tokenized_sentence_bert_labels": "non non non non non non con con con con con con con con",
+            "tokenized_sentence_spacy": "However , they also said their research shows uniforms limit expression and individuality",
+            "tokenized_sentence_spacy_labels": "non non non non non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some believe uniforms will not erase social class lines",
+            "sentence_hash": "ee6b908dfde2bfeec04f1b6317d3a74a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Some believe uniforms will not erase social class lines",
+            "tokenized_sentence_bert_labels": "non non con con con con con con con",
+            "tokenized_sentence_spacy": "Some believe uniforms will not erase social class lines",
+            "tokenized_sentence_spacy_labels": "non non con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "To begin with , it is a fact that uniforms lead parents and students on wasting a lot of money",
+            "sentence_hash": "9dec16cc40f64b41480e2a153eedff91",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "To begin with , it is a fact that uniforms lead parents and students on wasting a lot of money",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "To begin with , it is a fact that uniforms lead parents and students on wasting a lot of money",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I have concluded that most middle - schoolers find uniforms to be uncomfortable and annoying",
+            "sentence_hash": "a9f41577047645216e1b91e5a4b4899e",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "I have concluded that most middle - school ##ers find uniforms to be uncomfortable and annoying",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "I have concluded that most middle - schoolers find uniforms to be uncomfortable and annoying",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It said in the letter to heads that some items of uniform sold in a restrictive way could cost more than double the equivalent supermarket price",
+            "sentence_hash": "ac431a4e22e636296105a1c564b0dcc0",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "It said in the letter to heads that some items of uniform sold in a restrict ##ive way could cost more than double the equivalent supermarket price",
+            "tokenized_sentence_bert_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "It said in the letter to heads that some items of uniform sold in a restrictive way could cost more than double the equivalent supermarket price",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non con con con con con con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another reason is that students can be more comfortable in what they wear and have more space",
+            "sentence_hash": "03fecb8f829d583674941d2adff3455a",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Another reason is that students can be more comfortable in what they wear and have more space",
+            "tokenized_sentence_bert_labels": "non non non non con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Another reason is that students can be more comfortable in what they wear and have more space",
+            "tokenized_sentence_spacy_labels": "non non non non con con con con con con con con con con con con con"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Teachers in the school have also expressed frustration over the uniforms \u2014 some feeling administrators are not trying hard enough to enforce it , others feeling that it \u2019s a waste of time",
+            "sentence_hash": "4d064a41f68b3871bbc1ef89a2b3e767",
+            "sentence_level_stance": "pro",
+            "tokenized_sentence_bert": "Teachers in the school have also expressed frustration over the uniforms \u2014 some feeling administrators are not trying hard enough to enforce it , others feeling that it \u2019 s a waste of time",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con con",
+            "tokenized_sentence_spacy": "Teachers in the school have also expressed frustration over the uniforms \u2014 some feeling administrators are not trying hard enough to enforce it , others feeling that it \u2019s a waste of time",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non con con con con con con con con con con con con con con con con con con con con con"
+        }
+    ]
+}

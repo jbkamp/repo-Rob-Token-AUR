@@ -1,0 +1,2146 @@
+{
+    "gun control": [
+        {
+            "Cross-Domain": "Train",
+            "sentence": "--- This is a Train dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Dev",
+            "sentence": "--- This is a Dev dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Those in favor of gun control believe that it is clear what has to be done.",
+            "sentence_hash": "1fe0e5360c8a9e8a2621e44d99f1f41a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Those in favor of gun control believe that it is clear what has to be done .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Those in favor of gun control believe that it is clear what has to be done .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Interestingly , gun death statistics from these countries show that what we thought is true.",
+            "sentence_hash": "cfa3ae5ccd4d1d8207b32ef461583a90",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Interest ##ingly , gun death statistics from these countries show that what we thought is true .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Interestingly , gun death statistics from these countries show that what we thought is true .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control should be refined in America because we need to include the latest research.",
+            "sentence_hash": "6abe75a2706cd512fcdb34442bc72ce4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control should be refined in America because we need to include the latest research .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control should be refined in America because we need to include the latest research .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They fail to understand that no matter what we tell them.",
+            "sentence_hash": "414e26fbc38bf52a484c9f5547552e3d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They fail to understand that no matter what we tell them .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "They fail to understand that no matter what we tell them .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Brady Center to Prevent Gun Violence , the nation \u2019s leading gun control group , declared that it is time to intervene.",
+            "sentence_hash": "f69dbd5e28f724e1e63b2faf471c2dae",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The Brady Center to Pre ##vent Gun Violence , the nation \u2019 s leading gun control group , declared that it is time to intervene .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The Brady Center to Prevent Gun Violence , the nation \u2019s leading gun control group , declared that it is time to intervene .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control advocates maintained that for many years.",
+            "sentence_hash": "72407803bc6a1f545e401fafb7d90423",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control advocates maintained that for many years .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control advocates maintained that for many years .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It claims that more research is needed.",
+            "sentence_hash": "3b755ca723cfc11861dd619132b2392e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It claims that more research is needed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "It claims that more research is needed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Proponents use the fully credited obvious claim that was found in the report.",
+            "sentence_hash": "130b5c9c64697227cc30e03b31aaeef5",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Pro ##ponents use the fully credited obvious claim that was found in the report .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Proponents use the fully credited obvious claim that was found in the report .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another piece of statistics that may have an unsettling effect on you is that the lobby is influencing the decision making.",
+            "sentence_hash": "115a36ec23ba1a2741d227da56bc9700",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Another piece of statistics that may have an un ##sett ##ling effect on you is that the lobby is in ##f ##lue ##ncing the decision making .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Another piece of statistics that may have an unsettling effect on you is that the lobby is influencing the decision making .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Law reviews from the 1970s cite him as well.",
+            "sentence_hash": "0a427cb18c7a98136cc70707b15b3f2f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Law reviews from the 1970s c ##ite him as well .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Law reviews from the 1970s cite him as well .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "What they fail to consider is that guns exist in different shapes.",
+            "sentence_hash": "e182e435b9da73cbb83145ef30781aaf",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "What they fail to consider is that guns exist in different shapes .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "What they fail to consider is that guns exist in different shapes .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Generally speaking , polls suggest that everyone has an opinion.",
+            "sentence_hash": "03f52d3998f003b245012c8fc23a72f9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Generally speaking , polls suggest that everyone has an opinion .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Generally speaking , polls suggest that everyone has an opinion .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The gun control article can also add another piece of information that was not there before.",
+            "sentence_hash": "90c1636480af551bdc47af1af785f704",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The gun control article can also add another piece of information that was not there before .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The gun control article can also add another piece of information that was not there before .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "My contention will be that we don\u2019t know enough of the consequences.",
+            "sentence_hash": "15b778adfee83559d355dafab0f80278",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "My contention will be that we don \u2019 t know enough of the consequences .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "My contention will be that we do n\u2019t know enough of the consequences .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It seems obvious to some gun control zealots that , many will disagree with them.",
+            "sentence_hash": "46769b31d2651cfb3bc20255315e73c2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It seems obvious to some gun control z ##eal ##ots that , many will disagree with them .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It seems obvious to some gun control zealots that , many will disagree with them .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Other studies have shown that , too.",
+            "sentence_hash": "8482ab28b513ef18ca7e6266cf7b667e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Other studies have shown that , too .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "Other studies have shown that , too .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Otherwise it would have been convinced by the fact that even my parents would know who to vote.",
+            "sentence_hash": "6250d4b11f340d351843cf84082ce92c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Otherwise it would have been convinced by the fact that even my parents would know who to vote .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Otherwise it would have been convinced by the fact that even my parents would know who to vote .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that , amongst other findings.",
+            "sentence_hash": "c83b85158ff7a38b8715e064169aa9b0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Studies show that , amongst other findings .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "Studies show that , amongst other findings .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the other hand , gun control proponents claim that they are aware of the heated debate.",
+            "sentence_hash": "7b00b16c672979e5a31900349f922ba8",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "On the other hand , gun control proponent ##s claim that they are aware of the heated debate .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "On the other hand , gun control proponents claim that they are aware of the heated debate .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control outside the USA Gun control advocates cite foreign countries to argue that do or do not allow fire arms.",
+            "sentence_hash": "325371bcfb3ebd89287b45f737a92235",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control outside the USA Gun control advocates c ##ite foreign countries to argue that do or do not allow fire arms .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control outside the USA Gun control advocates cite foreign countries to argue that do or do not allow fire arms .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Pro gun lobbyists who do n\u2019t care who gets killed ignore the fact that they are of bug influence.",
+            "sentence_hash": "bf9b336ea85a7545c699d6c48174d89b",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Pro gun lobby ##ists who do n \u2019 t care who gets killed ignore the fact that they are of bug influence .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Pro gun lobbyists who do n\u2019t care who gets killed ignore the fact that they are of bug influence .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that we need more evidence to prove our point.",
+            "sentence_hash": "e0e38bbd9e1fbf06cd412bde1606611b",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Studies show that we need more evidence to prove our point .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Studies show that we need more evidence to prove our point .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "For the local people living in the country , they may have heard that the national government will take some important steps.",
+            "sentence_hash": "e14f1355a5f4615829b1d7a356bdce8b",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "For the local people living in the country , they may have heard that the national government will take some important steps .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "For the local people living in the country , they may have heard that the national government will take some important steps .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who support gun control claim or pretend that they didn\u2019t read the newspaper.",
+            "sentence_hash": "08c8537d491bbdd8c05f0066ce2a6637",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "People who support gun control claim or pretend that they didn \u2019 t read the newspaper .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "People who support gun control claim or pretend that they did n\u2019t read the newspaper .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The people , who believe in gun control say many things.",
+            "sentence_hash": "674e7d2e99c89c4ad45365d51cbee59c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The people , who believe in gun control say many things .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The people , who believe in gun control say many things .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The facts state the obvious and I will prove to you that i am right.",
+            "sentence_hash": "35d168f36936bf9586df1f97f68923e4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The facts state the obvious and I will prove to you that i am right .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The facts state the obvious and I will prove to you that i am right .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They argue that we should ask the citizens.",
+            "sentence_hash": "b2e95ab73c4c7ded8ee59e6e626739f4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They argue that we should ask the citizens .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "They argue that we should ask the citizens .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies have found that democrats and republicans have different views on the matter.",
+            "sentence_hash": "578f8d3a87d9d268bebde02e9fc8155c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Studies have found that demo ##crats and republican ##s have different views on the matter .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Studies have found that democrats and republicans have different views on the matter .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "For example , among those who say it is more important to protect gun rights , as many say , there are people from contrasting social backgrounds.",
+            "sentence_hash": "34a2118bc715d004f2e59707bf148ec2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "For example , among those who say it is more important to protect gun rights , as many say , there are people from contrasting social backgrounds .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "For example , among those who say it is more important to protect gun rights , as many say , there are people from contrasting social backgrounds .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun Control advocates have long contended that they are not listened to.",
+            "sentence_hash": "3806b1d2ab2556d78f0f27a4a9393be0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun Control advocates have long con ##tended that they are not listened to .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun Control advocates have long contended that they are not listened to .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A states that what B says is wrong.",
+            "sentence_hash": "768014ee7f89c22461ad4a6e33aaf791",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A states that what B says is wrong .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "A states that what B says is wrong .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One of gun control \u2019s advertised benefits is that one over there.",
+            "sentence_hash": "608b4b5dc0a72f5dccc4bb52237427fc",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One of gun control \u2019 s advertised benefits is that one over there .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One of gun control \u2019s advertised benefits is that one over there .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that we are far off.",
+            "sentence_hash": "82718e677800948bb7b582d65c793386",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "There is no doubt that we are far off .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "There is no doubt that we are far off .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Perhaps their strongest talking point is that they were unaware.",
+            "sentence_hash": "bfc019621a95cc8cba3500f9316bf8b7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Perhaps their strongest talking point is that they were unaware .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Perhaps their strongest talking point is that they were unaware .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "These statistics suppose the theory that senators came up with",
+            "sentence_hash": "9adb9e9de794898de9e6603010282d07",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "These statistics suppose the theory that senators came up with",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "These statistics suppose the theory that senators came up with",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Generally people say that gun control is an important discussion in our lives.",
+            "sentence_hash": "1436b74b5bae7bc8e0192f636db1e126",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Generally people say that gun control is an important discussion in our lives .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Generally people say that gun control is an important discussion in our lives .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Among statements recorded as anti - gun rights : not one that mentions the consequences for expat communities.",
+            "sentence_hash": "1dda8ecfa89e47792476e916caf1fa9d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Among statements recorded as anti - gun rights : not one that mentions the consequences for ex ##pa ##t communities .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Among statements recorded as anti - gun rights : not one that mentions the consequences for expat communities .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But by and large , people advocate restrictive gun laws because they believe in change.",
+            "sentence_hash": "a859f178e9af1179ad463a257bacb92b",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But by and large , people advocate restrict ##ive gun laws because they believe in change .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But by and large , people advocate restrictive gun laws because they believe in change .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "In addition to this negative data , the gun control article may also cite the information that was forwarded by the secretary.",
+            "sentence_hash": "7bd343908ed39c4e56ded1e851b77eaf",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "In addition to this negative data , the gun control article may also c ##ite the information that was forward ##ed by the secretary .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "In addition to this negative data , the gun control article may also cite the information that was forwarded by the secretary .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Virtually all gun control advocates say that we supposedly do not understand.",
+            "sentence_hash": "eafeb821422b39f5487faafda55b688e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Virtual ##ly all gun control advocates say that we supposedly do not understand .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Virtually all gun control advocates say that we supposedly do not understand .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Pro - gun control folks like to believe that , whereas I really can\u2019t.",
+            "sentence_hash": "c8e341b6426f591612dd67cc0c6946c8",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Pro - gun control folks like to believe that , whereas I really can \u2019 t .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Pro - gun control folks like to believe that , whereas I really ca n\u2019t .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One common claim of gun control advocates is that we should let the common people decide.",
+            "sentence_hash": "3b67470f43962a0887706f5a5fd57b3a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One common claim of gun control advocates is that we should let the common people decide .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One common claim of gun control advocates is that we should let the common people decide .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said that it is a hard fight.",
+            "sentence_hash": "bb313da372f96c4ffe51513ba6267c35",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Support ##ers of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said that it is a hard fight .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Supporters of the gun control bill , which was crafted in the wake of the Sandy Hook school massacre , said that it is a hard fight .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "At the time , people were already saying that democracy must be respected.",
+            "sentence_hash": "26dc28601b6423da8202fdab18192247",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "At the time , people were already saying that democracy must be respected .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "At the time , people were already saying that democracy must be respected .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control statistics support the idea that we can learn from other countries.",
+            "sentence_hash": "c8dfac8fcf7f57071ccb539f762bbe5f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control statistics support the idea that we can learn from other countries .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control statistics support the idea that we can learn from other countries .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "This gun control essay also quoted the results of a study which found that only larger states statistics are collected this year.",
+            "sentence_hash": "cccaa54d031c60c640fb6497bcc1e042",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "This gun control essay also quoted the results of a study which found that only larger states statistics are collected this year .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "This gun control essay also quoted the results of a study which found that only larger states statistics are collected this year .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Aborn also claimed that the president should take his responsibilities.",
+            "sentence_hash": "e61eb47d0e50af2a78e492fa1d6a45b9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A ##born also claimed that the president should take his responsibilities .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Aborn also claimed that the president should take his responsibilities .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But half of those with a gun in the household 50 % say they actually do not know how much it costed.",
+            "sentence_hash": "b5f35f563f6df8996cbae928ca643d9c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But half of those with a gun in the household 50 % say they actually do not know how much it cost ##ed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But half of those with a gun in the household 50 % say they actually do not know how much it costed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates that support the cause of control claim that family is important to them.",
+            "sentence_hash": "7ba7c2a074db84f30852e5202bea0002",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Advocate ##s that support the cause of control claim that family is important to them .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Advocates that support the cause of control claim that family is important to them .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control enthusiasts believe that not everything is lost.",
+            "sentence_hash": "3b54906b9d3f4ea67b578e2778c27ccb",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control enthusiasts believe that not everything is lost .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control enthusiasts believe that not everything is lost .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The answer that most weakens the argument is that you are misinformed.",
+            "sentence_hash": "6164061907716adc4677757c5a0d1cfa",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The answer that most weaken ##s the argument is that you are mi ##sin ##formed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The answer that most weakens the argument is that you are misinformed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Almost half , 46 % , think , talk about it, but are not politically active.",
+            "sentence_hash": "52d45ce419c370708ecb6e93195b50ee",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Almost half , 46 % , think , talk about it , but are not politically active .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Almost half , 46 % , think , talk about it , but are not politically active .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that we are supposedly wrong.",
+            "sentence_hash": "ecf661ff2fcd72587e13ef5971e1eae4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that we are supposedly wrong .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It is quite common among those who argue for allowing modern Americans carry guns to bring up some statistical information and show that we are supposedly wrong .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gun control advocates cite foreign countries to argue that laws can be changed.",
+            "sentence_hash": "b456f869751977045fcec3132c62f3e7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Gun control advocates c ##ite foreign countries to argue that laws can be changed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gun control advocates cite foreign countries to argue that laws can be changed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who oppose gun control laws claim that this is the right moment.",
+            "sentence_hash": "ee7eee09b9c991183f8e035e77b6c46f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "People who oppose gun control laws claim that this is the right moment .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "People who oppose gun control laws claim that this is the right moment .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the side of no gun regulation , advocates explain that they want to stick to it.",
+            "sentence_hash": "02271cc6d04e983669e0a4b10a3860c1",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "On the side of no gun regulation , advocates explain that they want to stick to it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "On the side of no gun regulation , advocates explain that they want to stick to it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Gingrich claimed that she didn\u2019t have time to respond.",
+            "sentence_hash": "fe9633f1c30c0d0d4232f7cf5c8ed620",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "G ##ing ##rich claimed that she didn \u2019 t have time to respond .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Gingrich claimed that she did n\u2019t have time to respond .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Such beliefs strengthen conservative talking points that existed for decades.",
+            "sentence_hash": "d1c1264f742f0a04d196a1cf5e918056",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Such beliefs strengthen conservative talking points that existed for decades .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Such beliefs strengthen conservative talking points that existed for decades .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Of course gun control advocates may disagree with the notion that the right wing is trying to make.",
+            "sentence_hash": "07c00509bb1f591b76778cd345aad37a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Of course gun control advocates may disagree with the notion that the right wing is trying to make .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Of course gun control advocates may disagree with the notion that the right wing is trying to make .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of gun control argue that they do not care.",
+            "sentence_hash": "774c9bfc799608cf3db61fc9c3d24673",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Support ##ers of gun control argue that they do not care .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Supporters of gun control argue that they do not care .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Fallacy and Motivation for Gun Control is explained by the rector.",
+            "sentence_hash": "d22d7e86657173c8a5799991cb0f5be8",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The Fall ##acy and Mo ##ti ##vation for Gun Control is explained by the rector .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The Fallacy and Motivation for Gun Control is explained by the rector .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that nobody thought of.",
+            "sentence_hash": "824bfbdf5a7195c28bb806501f81fd50",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that nobody thought of .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One recent gun control essay completely ignored gun death and gun death statistics and focused instead on the idea that nobody thought of .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some experts say smart things, other state the obvious.",
+            "sentence_hash": "80f825b8a07474c518722c79b87fdadd",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Some experts say smart things , other state the obvious .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Some experts say smart things , other state the obvious .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But leftists want gun control because of what happened.",
+            "sentence_hash": "a2ad9794f38cd331b3ed34f28af6253f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But left ##ists want gun control because of what happened .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But leftists want gun control because of what happened .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Anti - gun control folks like to believe that , and so do I.",
+            "sentence_hash": "f8f2d6bb20fec609d6cb00648f3ac331",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Anti - gun control folks like to believe that , and so do I .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Anti - gun control folks like to believe that , and so do I.",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Independents were divided:50 % said to understand both points of view, while a smaller part didn\u2019t care about the whole discussion.",
+            "sentence_hash": "64007a685697670c57688a87d693eaf9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Independent ##s were divided : 50 % said to understand both points of view , while a smaller part didn \u2019 t care about the whole discussion .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Independents were divided:50 % said to understand both points of view , while a smaller part did n\u2019t care about the whole discussion .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One such argument is that research shows both the good and bad aspects.",
+            "sentence_hash": "f92728a48aa9cd6022ebadb181388f24",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One such argument is that research shows both the good and bad aspects .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One such argument is that research shows both the good and bad aspects .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies show that there are tons of personal weapons scattered across the States.",
+            "sentence_hash": "c641066bdaf96b1b3808c288f0b11a0f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Studies show that there are tons of personal weapons scattered across the States .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Studies show that there are tons of personal weapons scattered across the States .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The argument of gun - rights advocates that they will listen to the opposition.",
+            "sentence_hash": "434b8d75659b76d4a5f02491fc636ddb",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The argument of gun - rights advocates that they will listen to the opposition .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The argument of gun - rights advocates that they will listen to the opposition .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The communication strategy of the National Rifle Association centers on the idea that a good one, I must admit.",
+            "sentence_hash": "15d35f163d16f62b019ecd5a50c45820",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The communication strategy of the National Rifle Association centers on the idea that a good one , I must admit .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The communication strategy of the National Rifle Association centers on the idea that a good one , I must admit .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Although there are laws for gun control in the country , it seems that other countries do as well.",
+            "sentence_hash": "086b9b7fea59a1664d8755e6263b09f0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Although there are laws for gun control in the country , it seems that other countries do as well .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Although there are laws for gun control in the country , it seems that other countries do as well .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that now it\u2019s up to the government to take over.",
+            "sentence_hash": "f0afa4285f5bbc605f04e80903152f91",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that now it \u2019 s up to the government to take over .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Thus , the conclusion of two of the most thorough and extensive research studies on the effectiveness of gun control find that now it \u2019s up to the government to take over .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They say that participation in school debates is a requirement.",
+            "sentence_hash": "8c1f6c49a42b24f865bdabe2e71af127",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They say that participation in school debates is a requirement .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "They say that participation in school debates is a requirement .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "And one of the scary things is that anti - gun lawmakers KNOW that , but don\u2019t act on it.",
+            "sentence_hash": "3d84ff898432c6b6dc3d92f0db5c491b",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "And one of the scary things is that anti - gun law ##makers K ##N ##OW that , but don \u2019 t act on it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "And one of the scary things is that anti - gun lawmakers KNOW that , but do n\u2019t act on it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Arguments on the other side include the claim that i frankly find bizarre.",
+            "sentence_hash": "3068e62798e52666b90754387bd7c836",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A ##rg ##ume ##nts on the other side include the claim that i frankly find bizarre .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Arguments on the other side include the claim that i frankly find bizarre .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of gun control argue that with anger and stats.",
+            "sentence_hash": "b885855da62bcdecca57b93c001a30fb",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Op ##ponents of gun control argue that with anger and s ##tat ##s .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Opponents of gun control argue that with anger and stats .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many people argue that they want to be more involved.",
+            "sentence_hash": "e29928e042c2805dbab859deb6ed5253",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Many people argue that they want to be more involved .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Many people argue that they want to be more involved .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates of this possession put forward the argument that is the most original so far.",
+            "sentence_hash": "b1c3d373a7cfbc0101605efc640d63ba",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Advocate ##s of this possession put forward the argument that is the most original so far .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Advocates of this possession put forward the argument that is the most original so far .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , gun control opponents say that guns can be light or heavy.",
+            "sentence_hash": "14c84854120725770d607aca9d5fe532",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , gun control opponents say that guns can be light or heavy .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , gun control opponents say that guns can be light or heavy .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Virtually all gun control advocates say that but only few believe them.",
+            "sentence_hash": "ea6ac416faaec151d2408de99ca6e94d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Virtual ##ly all gun control advocates say that but only few believe them .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Virtually all gun control advocates say that but only few believe them .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who have been advocating unrestricted gun ownership have been arguing that since last year.",
+            "sentence_hash": "87c70812680164eccb7cd6db585aff08",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "People who have been advocating unrest ##ricted gun ownership have been arguing that since last year .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "People who have been advocating unrestricted gun ownership have been arguing that since last year .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Persons in the group against gun control believe that gun control is wrong , and that we should accept this battle.",
+            "sentence_hash": "042e02598f4714ee99d70c24b04d9444",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Persons in the group against gun control believe that gun control is wrong , and that we should accept this battle .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Persons in the group against gun control believe that gun control is wrong , and that we should accept this battle .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is a lot to think about in regards to gun control because some Americans argue that no unified approach is used in surveys.",
+            "sentence_hash": "2378d0dd08c6b7ff2a856388e0e33283",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "There is a lot to think about in regards to gun control because some Americans argue that no unified approach is used in surveys .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "There is a lot to think about in regards to gun control because some Americans argue that no unified approach is used in surveys .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Lott demonstrates that they would really like to enter a discussion with him.",
+            "sentence_hash": "6d6329e3a6d09369dd481ba76c180ccc",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Lot ##t demonstrates that they would really like to enter a discussion with him .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Lott demonstrates that they would really like to enter a discussion with him .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Finally , the NRA has successfully argued that the opposition has never been so large.",
+            "sentence_hash": "368b6428595c7b317c87c2a499f81f17",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Finally , the N ##RA has successfully argued that the opposition has never been so large .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Finally , the NRA has successfully argued that the opposition has never been so large .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One reason is the one you can find in the annual NRA report.",
+            "sentence_hash": "ab6bb0ff82824d2f8b34c17aa324c2ca",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One reason is the one you can find in the annual N ##RA report .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One reason is the one you can find in the annual NRA report .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But leftists want gun control because they feel they are right.",
+            "sentence_hash": "387145d0ab28f3d4af4ccce8c599588c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But left ##ists want gun control because they feel they are right .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But leftists want gun control because they feel they are right .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many argue , many complain, few act.",
+            "sentence_hash": "ed6a01d62ebb9af4422457411854f13f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Many argue , many complain , few act .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Many argue , many complain , few act .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They have also stated the same argument before.",
+            "sentence_hash": "8e67b3e08aa481ac15eb2a8fe2d557e4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They have also stated the same argument before .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "They have also stated the same argument before .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Majorities of men , whites and Republicans say they feel the pressure increasing.",
+            "sentence_hash": "53fd722671f899bbc32dec672b08493f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Major ##ities of men , whites and Republicans say they feel the pressure increasing .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Majorities of men , whites and Republicans say they feel the pressure increasing .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Libertarians and conservatives point out that nothing can be easily changed.",
+            "sentence_hash": "9e1792a1edd0195bb0ebbd173b065b97",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Li ##bert ##arians and conservative ##s point out that nothing can be easily changed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Libertarians and conservatives point out that nothing can be easily changed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Arguments on the other side include the claim that as well.",
+            "sentence_hash": "dead0d730416bb725f4146cead72252f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A ##rg ##ume ##nts on the other side include the claim that as well .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Arguments on the other side include the claim that as well .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , the problem with this position by gun control supporters is that they think they are the master of truth.",
+            "sentence_hash": "25e704f22ff1e1e0b22a7bc8b7e280ff",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "However , the problem with this position by gun control supporters is that they think they are the master of truth .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "However , the problem with this position by gun control supporters is that they think they are the master of truth .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I assert that all my neighbours are against it.",
+            "sentence_hash": "131eb2ba739be0e5ad6b4a4f54f51063",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I assert that all my neighbours are against it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I assert that all my neighbours are against it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Supporters of gun control argue that it will change little for us.",
+            "sentence_hash": "6326788bf183e81bd095fdbc9bbb181d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Support ##ers of gun control argue that it will change little for us .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Supporters of gun control argue that it will change little for us .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Today we can see that errors of the past are repeated.",
+            "sentence_hash": "ea80a910bded05ca11bd4bbb9230cb2a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Today we can see that errors of the past are repeated .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Today we can see that errors of the past are repeated .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of gun control argue that this is a misguided position , and that everybody is too much influenced by biasing phenomena.",
+            "sentence_hash": "7908b32f97a09008efdeda3a2930b812",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Op ##ponents of gun control argue that this is a mi ##s ##gu ##ided position , and that everybody is too much influenced by bias ##ing phenomena .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Opponents of gun control argue that this is a misguided position , and that everybody is too much influenced by biasing phenomena .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Just 21 % say that they agree.",
+            "sentence_hash": "330eac72bb143075cd40dbf2eb9780e0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Just 21 % say that they agree .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "Just 21 % say that they agree .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Existing evidence indicates that i was partially right.",
+            "sentence_hash": "03636f93a7a3b6d745e96b3bc2d46b7c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Ex ##ist ##ing evidence indicates that i was partially right .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Existing evidence indicates that i was partially right .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The organization examined 51 of the most prominent gun control studies in the world and found that half of the results was not reproducible.",
+            "sentence_hash": "20b300dbd587a2143134891491cadaa2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The organization examined 51 of the most prominent gun control studies in the world and found that half of the results was not re ##p ##rod ##uc ##ible .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The organization examined 51 of the most prominent gun control studies in the world and found that half of the results was not reproducible .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non"
+        }
+    ],
+    "school uniforms": [
+        {
+            "Cross-Domain": "Train",
+            "sentence": "--- This is a Train dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Train",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Dev",
+            "sentence": "--- This is a Dev dummy entry. ---",
+            "sentence_hash": "",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": [
+                "-",
+                "-",
+                "-",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "du",
+                "##mmy",
+                "entry",
+                ".",
+                "-",
+                "-",
+                "-"
+            ],
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": [
+                "---",
+                "This",
+                "is",
+                "a",
+                "Dev",
+                "dummy",
+                "entry",
+                ".",
+                "---"
+            ],
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "One of the advantages of school uniforms is more important than other.",
+            "sentence_hash": "1d83797cbd393994e79e81e779444656",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "One of the advantages of school uniforms is more important than other .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "One of the advantages of school uniforms is more important than other .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many are convinced that the topic should be more approachable.",
+            "sentence_hash": "00c861529e14f56215a6f6ff1925bd5a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Many are convinced that the topic should be more approach ##able .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Many are convinced that the topic should be more approachable .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I suspect that few people are aware.",
+            "sentence_hash": "04f47f79a25b1f2621573cd8357808d6",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I suspect that few people are aware .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "I suspect that few people are aware .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is also worth noting that i never had this discussion with my colleagues.",
+            "sentence_hash": "740316cd0a3925b48233d54f1bc7cc51",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It is also worth noting that i never had this discussion with my colleagues .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It is also worth noting that i never had this discussion with my colleagues .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "This is generally a positive thing , since it means that more discussions will follow.",
+            "sentence_hash": "914edea0e099e678a720863a0775c9f2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "This is generally a positive thing , since it means that more discussions will follow .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "This is generally a positive thing , since it means that more discussions will follow .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I also find that difficult to believe.",
+            "sentence_hash": "21d4591f6d9a679cfe38362c32d87b8f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I also find that difficult to believe .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "I also find that difficult to believe .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I think that very often.",
+            "sentence_hash": "8bb26669df69925dbb262af79c755d9e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I think that very often .",
+            "tokenized_sentence_bert_labels": "non non non non non non",
+            "tokenized_sentence_spacy": "I think that very often .",
+            "tokenized_sentence_spacy_labels": "non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some people may think that individual schools are divided on the matter.",
+            "sentence_hash": "526e5eb193040abea9bb9a5a9a9d3da1",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Some people may think that individual schools are divided on the matter .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Some people may think that individual schools are divided on the matter .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The second argument states that as well.",
+            "sentence_hash": "529406f76aeb04356084b8c100b84a57",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The second argument states that as well .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "The second argument states that as well .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : this will be taken into consideration by decision-makers.",
+            "sentence_hash": "1ef0c7d945db026afbdba964a0a636c7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : this will be taken into consideration by decision - makers .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Aside from their contributions to school environment , school uniform programs provide a practical benefit to families : this will be taken into consideration by decision - makers .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They discovered that only lately.",
+            "sentence_hash": "bcbe8cdf351a2c065ab2b8df797dd37c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They discovered that only lately .",
+            "tokenized_sentence_bert_labels": "non non non non non non",
+            "tokenized_sentence_spacy": "They discovered that only lately .",
+            "tokenized_sentence_spacy_labels": "non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "TwoBears said the same thing.",
+            "sentence_hash": "6fcdfc8fb2fe551bc379e739ec9716a7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Two ##B ##ear ##s said the same thing .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "TwoBears said the same thing .",
+            "tokenized_sentence_spacy_labels": "non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It ensures that it has been placed on the agenda.",
+            "sentence_hash": "fa5f7a6fddeaa34f4dbf3f487de0eec9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It ensures that it has been placed on the agenda .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It ensures that it has been placed on the agenda .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But he also recognises that the law as of today is outdated.",
+            "sentence_hash": "c6a724c8a69406cac8a2eb47ec424b23",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But he also recognise ##s that the law as of today is out ##dated .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But he also recognises that the law as of today is outdated .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Parents may also be concerned that their opinion are taken less seriously.",
+            "sentence_hash": "790c6e16eff4f3d3ecb7afae6b8d6658",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Parents may also be concerned that their opinion are taken less seriously .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Parents may also be concerned that their opinion are taken less seriously .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , little students or parents of students refuse to do so.",
+            "sentence_hash": "011919c1716bfb600d49b41d3a01fad3",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , little students or parents of students refuse to do so .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The Legislature finds that in schools that have adopted a dress code requiring students to wear school uniforms , little students or parents of students refuse to do so .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "He said it loud and clearly.",
+            "sentence_hash": "fc05599e9b60f23626fd638db42149f0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "He said it loud and clearly .",
+            "tokenized_sentence_bert_labels": "non non non non non non non",
+            "tokenized_sentence_spacy": "He said it loud and clearly .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , I imagine the solution to be a nuanced one.",
+            "sentence_hash": "b1690c1ec4a582f47ba39e4c5e06689f",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "However , I imagine the solution to be a n ##uan ##ced one .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "However , I imagine the solution to be a nuanced one .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Experts believe that catholic schools are not enthusiastic about the new legislation.",
+            "sentence_hash": "266e0e4dad07b997d5430276c00712aa",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Ex ##pert ##s believe that cat ##hol ##ic schools are not enthusiastic about the new legislation .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Experts believe that catholic schools are not enthusiastic about the new legislation .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "When children wear school uniforms , they usually wear a black one.",
+            "sentence_hash": "7b1fe386ca5c581a286b1cacbd78014e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "When children wear school uniforms , they usually wear a black one .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "When children wear school uniforms , they usually wear a black one .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that the opposing party is making.",
+            "sentence_hash": "2948a36da0d8453b3b9f17fd74670c5e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that the opposing party is making .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "My opponent has made no effort to attack my contention about the economy and has conceded on the point that the opposing party is making .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another positive effect of school uniforms is now scientifically proven.",
+            "sentence_hash": "7aa4c3ef7cb67a89c9710e29af695d88",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Another positive effect of school uniforms is now scientific ##ally proven .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Another positive effect of school uniforms is now scientifically proven .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is important as well.",
+            "sentence_hash": "d2bcd0f29963ecdf62d5112246de4109",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It is important as well .",
+            "tokenized_sentence_bert_labels": "non non non non non non",
+            "tokenized_sentence_spacy": "It is important as well .",
+            "tokenized_sentence_spacy_labels": "non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Other supporters feel that they are not listened to.",
+            "sentence_hash": "e8416a6301f7d61e82631391c2d2c705",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Other supporters feel that they are not listened to .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Other supporters feel that they are not listened to .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Flynn said he also has seen multiple facets of the same consequence arise.",
+            "sentence_hash": "cfdd4b567db32f7e15738f818335f423",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Flynn said he also has seen multiple face ##ts of the same consequence arise .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Flynn said he also has seen multiple facets of the same consequence arise .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Not only is it a proven fact that the more parents are informed, the more the decision is going to be democratic.",
+            "sentence_hash": "310880d1dd5b5a78594deb72c2d675f0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Not only is it a proven fact that the more parents are informed , the more the decision is going to be democratic .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Not only is it a proven fact that the more parents are informed , the more the decision is going to be democratic .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "etc , I think a big advantage is that parents of children are getting more involved.",
+            "sentence_hash": "69e9e9b906e0bc5877a9de0efd75d8d2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "etc , I think a big advantage is that parents of children are getting more involved .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "etc , I think a big advantage is that parents of children are getting more involved .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that the survey reports reach politics on a regular basis.",
+            "sentence_hash": "1b8ab986d9c1673a962e10b6eb8deada",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "There is no doubt that the survey reports reach politics on a regular basis .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "There is no doubt that the survey reports reach politics on a regular basis .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Moreover , when students are adorned in school uniforms they also wear matching shoes.",
+            "sentence_hash": "0022daa73165bb398b786e3ccbb97034",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Moreover , when students are adorned in school uniforms they also wear matching shoes .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Moreover , when students are adorned in school uniforms they also wear matching shoes .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We know that for a fact.",
+            "sentence_hash": "a3b41da7a007ba5944033e8bad0bc871",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "We know that for a fact .",
+            "tokenized_sentence_bert_labels": "non non non non non non non",
+            "tokenized_sentence_spacy": "We know that for a fact .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "No one can deny the importance of wearing school uniforms because the debate has been brought at a political level.",
+            "sentence_hash": "b71754b9033598c223bc27c130d41127",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "No one can deny the importance of wearing school uniforms because the debate has been brought at a political level .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "No one can deny the importance of wearing school uniforms because the debate has been brought at a political level .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some parents report that they were not informed.",
+            "sentence_hash": "82a3f926e49a33a60036c9e69d3ca05a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Some parents report that they were not informed .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Some parents report that they were not informed .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "\"While clothing is a minor issue when it comes to education ;\" hair mode is not.",
+            "sentence_hash": "c12149a090bd207e3b3c38fcdb6ea77a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "\" While clothing is a minor issue when it comes to education ; \" hair mode is not .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "\" While clothing is a minor issue when it comes to education ; \" hair mode is not .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , people say that all the time.",
+            "sentence_hash": "82027bc16bbb43d29cfdefb450b5baba",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , people say that all the time .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , people say that all the time .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Main appeal for me is - unimportant.",
+            "sentence_hash": "5bbc9ab15819485b602fa387283b8ff9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Main appeal for me is - un ##im ##port ##ant .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Main appeal for me is - unimportant .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "On the other hand some people argue that arguments pro or against are often based on wrong assumptions.",
+            "sentence_hash": "8518843854adb1ba17f0151ee8ec3aa3",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "On the other hand some people argue that arguments pro or against are often based on wrong assumptions .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "On the other hand some people argue that arguments pro or against are often based on wrong assumptions .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , Siegel argues that the underlying thought is based on emotion rather than on rational thought.",
+            "sentence_hash": "77870ab624ade7388c9baa041a8f60a6",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , Siege ##l argues that the underlying thought is based on emotion rather than on rational thought .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , Siegel argues that the underlying thought is based on emotion rather than on rational thought .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I actually believe that it can be achieved worldwide.",
+            "sentence_hash": "8b591e007529ec42ffeb19831e04a973",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I actually believe that it can be achieved worldwide .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I actually believe that it can be achieved worldwide .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , it has been proven that especially religious individuals disagree most.",
+            "sentence_hash": "32ea75aa57577012cfb4331815ef8d7e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , it has been proven that especially religious individuals disagree most .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , it has been proven that especially religious individuals disagree most .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Uniforms are good , because of multiple reasons.",
+            "sentence_hash": "dead5584ea1004d58d233af75e9fe09d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Un ##iform ##s are good , because of multiple reasons .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Uniforms are good , because of multiple reasons .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It has been argued that school debates among children is of major importance.",
+            "sentence_hash": "de0f4186f1389a52dceef45b67a5aff3",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It has been argued that school debates among children is of major importance .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It has been argued that school debates among children is of major importance .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The only thing I feel is potentially positive about the school uniform movement is that it is leaving impact.",
+            "sentence_hash": "4c9cfb18439a082ed39d9fb3e311ec53",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The only thing I feel is potentially positive about the school uniform movement is that it is leaving impact .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The only thing I feel is potentially positive about the school uniform movement is that it is leaving impact .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Schools think that the school uniform movement is very tangible.",
+            "sentence_hash": "dc5e36d734b63fe637026a41fc045a40",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Schools think that the school uniform movement is very tan ##gible .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Schools think that the school uniform movement is very tangible .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A lot of the research in support of school uniforms says that the final decision should always rest by the school itself.",
+            "sentence_hash": "40d442a29a4758ad3f50dd600c09c2dd",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A lot of the research in support of school uniforms says that the final decision should always rest by the school itself .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "A lot of the research in support of school uniforms says that the final decision should always rest by the school itself .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Most principals 83 percent said that they have never worn a school uniform.",
+            "sentence_hash": "6e6b185a076729f3cd95b2e57e4eb2ad",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Most principal ##s 83 percent said that they have never worn a school uniform .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Most principals 83 percent said that they have never worn a school uniform .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They look at the statistics in this case and come to the conclusion that a debate on all levels is required.",
+            "sentence_hash": "2c8e16b57285d81985745724ec3763a1",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They look at the statistics in this case and come to the conclusion that a debate on all levels is required .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "They look at the statistics in this case and come to the conclusion that a debate on all levels is required .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Its good because says the statement.",
+            "sentence_hash": "d8187bd0d4fa8c3b2fd57d97cebfe032",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Its good because says the statement .",
+            "tokenized_sentence_bert_labels": "non non non non non non non",
+            "tokenized_sentence_spacy": "Its good because says the statement .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Advocates for students wearing uniforms contend that internal competition is one of the main points of debate.",
+            "sentence_hash": "3924916e8e26a065faca7838204914d2",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Advocate ##s for students wearing uniforms con ##tend that internal competition is one of the main points of debate .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Advocates for students wearing uniforms contend that internal competition is one of the main points of debate .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Plenty of pro - uniform politicians will argue that their voice must be heard.",
+            "sentence_hash": "645299159ad3c7a94e713bbd2f2b5eed",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "P ##lent ##y of pro - uniform politicians will argue that their voice must be heard .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Plenty of pro - uniform politicians will argue that their voice must be heard .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "There is no doubt that uniforms can be worn in schools.",
+            "sentence_hash": "4085b94b3853e8e5545068399148a1b7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "There is no doubt that uniforms can be worn in schools .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "There is no doubt that uniforms can be worn in schools .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Studies have also shown that some students like uniforms and other do not.",
+            "sentence_hash": "cb1f821a8b0ce9f970414af856858272",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Studies have also shown that some students like uniforms and other do not .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Studies have also shown that some students like uniforms and other do not .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "From personal experience i can say that uniforms exist in many shapes and colours.",
+            "sentence_hash": "940543947462d1d275b78d113db4ee97",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "From personal experience i can say that uniforms exist in many shapes and colours .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "From personal experience i can say that uniforms exist in many shapes and colours .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Officials say the school uniforms are under consideration in many cities at the moment.",
+            "sentence_hash": "2411e001655c2a4dcfd4f3b27099f260",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Official ##s say the school uniforms are under consideration in many cities at the moment .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Officials say the school uniforms are under consideration in many cities at the moment .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Parents also say \u201c yay to uniforms because they are positive about it.",
+            "sentence_hash": "79baab066acaab7cab2c0288ec2167b0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Parents also say \u201c ya ##y to uniforms because they are positive about it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Parents also say \u201c yay to uniforms because they are positive about it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "People who are for it say that more people should be in favour of it.",
+            "sentence_hash": "59ea48ec05167c9c295140b9c7309794",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "People who are for it say that more people should be in favour of it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "People who are for it say that more people should be in favour of it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I think that my opinion should count.",
+            "sentence_hash": "2afa3e5ada2398a832fa2df67a0b33ca",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I think that my opinion should count .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "I think that my opinion should count .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "You may say that discussions can get harsh.",
+            "sentence_hash": "3827cb6a2465383f546ac260a45ed46c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "You may say that discussions can get harsh .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "You may say that discussions can get harsh .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Furthermore , they strongly felt that some school collaborate and others do not.",
+            "sentence_hash": "97601790df61a9c9ed71cc004c07f54c",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Furthermore , they strongly felt that some school collaborate and others do not .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Furthermore , they strongly felt that some school collaborate and others do not .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Schools argue that they should be able to choose by themselves.",
+            "sentence_hash": "dfe1b6049ddb24bc05286733b015eacf",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Schools argue that they should be able to choose by themselves .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Schools argue that they should be able to choose by themselves .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another reason some might agree with D'silva is that only involving all parties an informed decision can be made.",
+            "sentence_hash": "d39909bf4c51ffbd661649429bdae815",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Another reason some might agree with D ' si ##l ##va is that only involving all parties an informed decision can be made .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Another reason some might agree with D'silva is that only involving all parties an informed decision can be made .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I 'd argue that we have to talk about it with our sons and daughters.",
+            "sentence_hash": "018cf5cc9a88c3b4584b8dd9f93b8c8d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I ' d argue that we have to talk about it with our sons and daughters .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I 'd argue that we have to talk about it with our sons and daughters .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Initially , they pointed to studies that said finding a total consensus is difficult.",
+            "sentence_hash": "c131bbb375d039aee6fe6ea9c8bf6df4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Initially , they pointed to studies that said finding a total consensus is difficult .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Initially , they pointed to studies that said finding a total consensus is difficult .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I feel that we will never agree.",
+            "sentence_hash": "d875c0e2232de0d8d29d8cfd1ab2fa92",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I feel that we will never agree .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non",
+            "tokenized_sentence_spacy": "I feel that we will never agree .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We may therefore reasonably conclude that it is a political matter in the end.",
+            "sentence_hash": "2aed1069b30c7021c3d289f3dc7af6d5",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "We may therefore reasonably conclude that it is a political matter in the end .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "We may therefore reasonably conclude that it is a political matter in the end .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Point Schools that have a uniform often say that they do so because they felt pressure by the community.",
+            "sentence_hash": "fbe0e9acd931831c5efca88879b43c08",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Point Schools that have a uniform often say that they do so because they felt pressure by the community .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Point Schools that have a uniform often say that they do so because they felt pressure by the community .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "An additional argument put forth by those in favor of uniforms advocates that more discussion should be risen.",
+            "sentence_hash": "64b52031dff85581f35403c5f5447123",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "An additional argument put forth by those in favor of uniforms advocates that more discussion should be risen .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "An additional argument put forth by those in favor of uniforms advocates that more discussion should be risen .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They observed that uniforms un public schools are getting enforced.",
+            "sentence_hash": "47d25d60b541e0a1093dc16dfaf1fca6",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They observed that uniforms un public schools are getting enforced .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "They observed that uniforms un public schools are getting enforced .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The school board states that in most case children do not wear a uniform.",
+            "sentence_hash": "9574fdf1f1649c56a16fba6bb263e679",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The school board states that in most case children do not wear a uniform .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The school board states that in most case children do not wear a uniform .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Clinton -- along with many other legislators , educators , and parents -- believes that the choice for school uniforms should be taken by the parental board.",
+            "sentence_hash": "478b7357711ea7e4479211814223a643",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Clinton - - along with many other legislators , educators , and parents - - believes that the choice for school uniforms should be taken by the parental board .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Clinton -- along with many other legislators , educators , and parents -- believes that the choice for school uniforms should be taken by the parental board .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "As a teacher , I also observed some positive effects of having students wear uniforms , such as depicted by Zack Schmidt.",
+            "sentence_hash": "d9dd6bc6ea9a38380f0a3b2dcaa22fec",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "As a teacher , I also observed some positive effects of having students wear uniforms , such as depicted by Zack Schmidt .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "As a teacher , I also observed some positive effects of having students wear uniforms , such as depicted by Zack Schmidt .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "School board has come up with the decision because they believe that children have their say.",
+            "sentence_hash": "aa6f772da5244fede3aec4aa570d1e2d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "School board has come up with the decision because they believe that children have their say .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "School board has come up with the decision because they believe that children have their say .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "He said it and repeated it.",
+            "sentence_hash": "6ed6ea64f469e18a5702dcac53ee2234",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "He said it and repeated it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non",
+            "tokenized_sentence_spacy": "He said it and repeated it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": ", if only they realize that the discussion is important to us.",
+            "sentence_hash": "92b15dd93afa4f970a2c150cd9e9337d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": ", if only they realize that the discussion is important to us .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": ", if only they realize that the discussion is important to us .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "We know that and will listen to anyone.",
+            "sentence_hash": "e411afc0fe94045123cc804662caae03",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "We know that and will listen to anyone .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "We know that and will listen to anyone .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "If we are arguing solely on the premise that school uniforms have to be worn in schools.",
+            "sentence_hash": "04a506508c54a272120d7eb2b3f3e1b0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "If we are arguing solely on the premise that school uniforms have to be worn in schools .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "If we are arguing solely on the premise that school uniforms have to be worn in schools .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "\"; administrators like them for the simple reason\" they are told to vouch for them.",
+            "sentence_hash": "07add180a0299e6a7dbed25c34582ec1",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "\" ; administrators like them for the simple reason \" they are told to v ##ou ##ch for them .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "\" ; administrators like them for the simple reason \" they are told to vouch for them .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "According to a new study by researchers at the University of Houston , twenty percent of all countries adopted school uniforms.",
+            "sentence_hash": "ccbb401a58ac6b837a2809c7f17bdcee",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "According to a new study by researchers at the University of Houston , twenty percent of all countries adopted school uniforms .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "According to a new study by researchers at the University of Houston , twenty percent of all countries adopted school uniforms .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Public schools : Most of the public elementary schools do n't require the kids to wear uniforms , in part because the absence of legislation.",
+            "sentence_hash": "20f79ec77ba2c5dcf8258bf57e2902e1",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Public schools : Most of the public elementary schools do n ' t require the kids to wear uniforms , in part because the absence of legislation .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Public schools : Most of the public elementary schools do n't require the kids to wear uniforms , in part because the absence of legislation .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "They would argue that clear laws are missing.",
+            "sentence_hash": "b5efa7b2f3156c3d41a717c2cdccab9e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "They would argue that clear laws are missing .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "They would argue that clear laws are missing .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But as I pointed out , i am not an expert.",
+            "sentence_hash": "bccdc637f0fe6a7c59fad37803259469",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But as I pointed out , i am not an expert .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But as I pointed out , i am not an expert .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "But other parents disagreed , saying that they cannot believe it.",
+            "sentence_hash": "45f8e5b9895307a9e806c784d94c442d",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "But other parents disagreed , saying that they cannot believe it .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "But other parents disagreed , saying that they can not believe it .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It is also being argued by them that a long way is still waiting.",
+            "sentence_hash": "b8ec540de311afa65d90b62b8fc75c99",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It is also being argued by them that a long way is still waiting .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It is also being argued by them that a long way is still waiting .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , people say that because of ignorance.",
+            "sentence_hash": "3279df85bfde0bd934516a316094c7f4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , people say that because of ignorance .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , people say that because of ignorance .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Many children and some parents believe that the academic year is almost over.",
+            "sentence_hash": "6500cd06385ea9ba706001c60a04fc56",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Many children and some parents believe that the academic year is almost over .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Many children and some parents believe that the academic year is almost over .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "The main argument against having uniforms in the school system is that one just mentioned by the rector himself.",
+            "sentence_hash": "1df0fcb908ca5d3291a17f20a2aebbc4",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "The main argument against having uniforms in the school system is that one just mentioned by the rector himself .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "The main argument against having uniforms in the school system is that one just mentioned by the rector himself .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I strongly believe that we need to look forward.",
+            "sentence_hash": "d88ad5536f1e9fdee3f9e3e6ccef9207",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I strongly believe that we need to look forward .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I strongly believe that we need to look forward .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "From experience I can say that school boards want the best for their students.",
+            "sentence_hash": "6c4273789becfa310e4bfad9d7c249a9",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "From experience I can say that school boards want the best for their students .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "From experience I can say that school boards want the best for their students .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "As stated by the Public School Review , under the First Amendment , it argues that institutions have the freedom to choose what they think is best.",
+            "sentence_hash": "7dda06a74b1793b624d1b488e5ea8d19",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "As stated by the Public School Review , under the First Amendment , it argues that institutions have the freedom to choose what they think is best .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "As stated by the Public School Review , under the First Amendment , it argues that institutions have the freedom to choose what they think is best .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Also , there is the fact that summer vacations are getting awfully close.",
+            "sentence_hash": "883891d7717bbd5b6bde36113ba00b1e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Also , there is the fact that summer vacation ##s are getting awful ##ly close .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Also , there is the fact that summer vacations are getting awfully close .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Opponents of uniforms suggest that this is the best moment to convince the other party.",
+            "sentence_hash": "b66a02c2ac8ae82c7c13cbf0506a17c7",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Op ##ponents of uniforms suggest that this is the best moment to convince the other party .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Opponents of uniforms suggest that this is the best moment to convince the other party .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some people said that they would like to see how it was 40 years ago.",
+            "sentence_hash": "52065754d6d8993ffa7613d586836135",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Some people said that they would like to see how it was 40 years ago .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Some people said that they would like to see how it was 40 years ago .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I personally believe that some people don\u2019t know what they are talking about.",
+            "sentence_hash": "3c9933be0932eefd692c3e55e7ed6255",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I personally believe that some people don \u2019 t know what they are talking about .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I personally believe that some people do n\u2019t know what they are talking about .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "A typical complaint is that politics is insufficiently involved in an active way.",
+            "sentence_hash": "ddba1a423561f6a5aac1e3eb358d6db6",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "A typical complaint is that politics is insufficient ##ly involved in an active way .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "A typical complaint is that politics is insufficiently involved in an active way .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "However , they also said their school heads are too busy.",
+            "sentence_hash": "960b6cbb08c47d22c72ab39d289cf7ff",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "However , they also said their school heads are too busy .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "However , they also said their school heads are too busy .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Some believe it and others don\u2019t.",
+            "sentence_hash": "ee6b908dfde2bfeec04f1b6317d3a74a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Some believe it and others don \u2019 t .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non",
+            "tokenized_sentence_spacy": "Some believe it and others do n\u2019t .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "To begin with , it is a fact that has been proven over and over again.",
+            "sentence_hash": "9dec16cc40f64b41480e2a153eedff91",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "To begin with , it is a fact that has been proven over and over again .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "To begin with , it is a fact that has been proven over and over again .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "I have concluded that other views have too big of a flaws.",
+            "sentence_hash": "a9f41577047645216e1b91e5a4b4899e",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "I have concluded that other views have too big of a flaws .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "I have concluded that other views have too big of a flaws .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "It said in the letter to heads that mums and dads want to talk in a plenary event.",
+            "sentence_hash": "ac431a4e22e636296105a1c564b0dcc0",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "It said in the letter to heads that mum ##s and dad ##s want to talk in a p ##lena ##ry event .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "It said in the letter to heads that mums and dads want to talk in a plenary event .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Another reason is that people are tired of the discussion.",
+            "sentence_hash": "03fecb8f829d583674941d2adff3455a",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Another reason is that people are tired of the discussion .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Another reason is that people are tired of the discussion .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non"
+        },
+        {
+            "Cross-Domain": "Test",
+            "sentence": "Teachers in the school have also expressed frustration over the uniforms \u2014 a specific clothing line pushed forward at the end of 2018.",
+            "sentence_hash": "4d064a41f68b3871bbc1ef89a2b3e767",
+            "sentence_level_stance": "non",
+            "tokenized_sentence_bert": "Teachers in the school have also expressed frustration over the uniforms \u2014 a specific clothing line pushed forward at the end of 2018 .",
+            "tokenized_sentence_bert_labels": "non non non non non non non non non non non non non non non non non non non non non non non non",
+            "tokenized_sentence_spacy": "Teachers in the school have also expressed frustration over the uniforms \u2014 a specific clothing line pushed forward at the end of 2018 .",
+            "tokenized_sentence_spacy_labels": "non non non non non non non non non non non non non non non non non non non non non non non non"
+        }
+    ]
+}
